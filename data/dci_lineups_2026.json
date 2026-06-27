@@ -610,7 +610,7 @@
     },
     {
       "slug": "2026-dci-capital-classic",
-      "event_name": "DCI Capital Classic",
+      "event_name": "Scores Announced",
       "date": "Friday, July 3, 2026 6:30 PM",
       "date_iso": "2026-07-03",
       "location": "Sacramento, CA",
@@ -619,32 +619,49 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Sparta Ignite",
+          "time": "6:40 PM",
+          "competitive": false
+        },
+        {
           "corps": "Golden Empire",
-          "time": "6:52 PM"
+          "time": "6:52 PM",
+          "competitive": true
         },
         {
           "corps": "Impulse",
-          "time": "7:07 PM"
+          "time": "7:07 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "7:22 PM"
+          "time": "7:22 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Mandarins Alumni Corps",
+          "time": "7:37 PM",
+          "competitive": false
         },
         {
           "corps": "Seattle Cascades",
-          "time": "8:22 PM"
+          "time": "8:22 PM",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "8:40 PM"
+          "time": "8:40 PM",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "8:58 PM"
+          "time": "8:58 PM",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "9:16 PM"
+          "time": "9:16 PM",
+          "competitive": true
         }
       ]
     },
@@ -799,7 +816,7 @@
     },
     {
       "slug": "2026-river-city-rhapsody",
-      "event_name": "River City Rhapsody",
+      "event_name": "Scores Announced",
       "date": "Sunday, July 5, 2026 7:00 PM",
       "date_iso": "2026-07-05",
       "location": "La Crosse, WI",
@@ -808,42 +825,65 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Blue Saints",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Sound of Sun Prairie",
+          "time": "7:20 PM",
+          "competitive": false
+        },
+        {
           "corps": "Govenaires",
-          "time": "7:32 PM"
+          "time": "7:32 PM",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": "7:49 PM"
+          "time": "7:49 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "8:06 PM"
+          "time": "8:06 PM",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "8:23 PM"
+          "time": "8:23 PM",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "9:00 PM"
+          "time": "9:00 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "9:17 PM"
+          "time": "9:17 PM",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "9:34 PM"
+          "time": "9:34 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "9:51 PM"
+          "time": "9:51 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Blue Stars",
+          "time": "10:08 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-drums-across-the-smokies",
-      "event_name": "Drums Across the Smokies",
+      "event_name": "Scores Announced",
       "date": "Tuesday, July 7, 2026 8:00 PM",
       "date_iso": "2026-07-07",
       "location": "Sevierville, TN",
@@ -853,25 +893,29 @@
       "lineup": [
         {
           "corps": "Music City",
-          "time": "8:10 PM"
+          "time": "8:10 PM",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "8:32 PM"
+          "time": "8:32 PM",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "8:54 PM"
+          "time": "8:54 PM",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "9:16 PM"
+          "time": "9:16 PM",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-the-kiwanis-thunder-of-drums",
-      "event_name": "The Kiwanis Thunder of Drums",
+      "event_name": "Scores Announced",
       "date": "Tuesday, July 7, 2026 7:00 PM",
       "date_iso": "2026-07-07",
       "location": "Mankato, MN",
@@ -880,36 +924,49 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Minnesota State University - Clinic Band",
+          "time": "6:50 PM",
+          "competitive": false
+        },
+        {
           "corps": "Govenaires",
-          "time": "7:10 PM"
+          "time": "7:10 PM",
+          "competitive": true
         },
         {
           "corps": "MBI",
-          "time": "7:27 PM"
+          "time": "7:27 PM",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": "7:44 PM"
+          "time": "7:44 PM",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "8:18 PM"
+          "time": "8:18 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "8:35 PM"
+          "time": "8:35 PM",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "8:52 PM"
+          "time": "8:52 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "9:09 PM"
+          "time": "9:09 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "9:26 PM"
+          "time": "9:26 PM",
+          "competitive": true
         }
       ]
     },
@@ -1180,7 +1237,7 @@
     },
     {
       "slug": "2026-music-on-the-march",
-      "event_name": "Music on the March",
+      "event_name": "Scores Announced",
       "date": "Friday, July 10, 2026 7:00 PM",
       "date_iso": "2026-07-10",
       "location": "Dubuque, IA",
@@ -1189,32 +1246,49 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Conquest",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
           "corps": "Colt Cadets",
-          "time": "7:22 PM"
+          "time": "7:22 PM",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": "7:39 PM"
+          "time": "7:39 PM",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "7:56 PM"
+          "time": "7:56 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "8:33 PM"
+          "time": "8:33 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "8:50 PM"
+          "time": "8:50 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "9:07 PM"
+          "time": "9:07 PM",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "9:24 PM"
+          "time": "9:24 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Colts",
+          "time": "9:41 PM",
+          "competitive": false
         }
       ]
     },
@@ -1570,35 +1644,45 @@
     },
     {
       "slug": "2026-so-cal-classic-open-class-pacific-championship-finals",
-      "event_name": "So Cal Classic: Open Class Pacific Championship Finals",
+      "event_name": "Impulse",
       "date": "Sunday, July 12, 2026 7:00 PM",
       "date_iso": "2026-07-12",
       "location": "Buena Park, CA",
       "venue": "Buena Park High School 8833 Academy Dr Buena Park, CA 90621",
       "dci_url": "https://www.dci.org/events/2026-so-cal-classic-open-class-pacific-championship-finals/",
+      "scored": true,
       "lineup": [
         {
+          "corps": "Sacramento Freelancers",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
           "corps": "Blue Devils B",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Devils C",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Golden Empire",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Impulse",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-brass-impact",
@@ -1664,7 +1748,7 @@
     },
     {
       "slug": "2026-drums-across-the-desert",
-      "event_name": "Drums Across the Desert",
+      "event_name": "Event Concludes",
       "date": "Monday, July 13, 2026 8:00 PM",
       "date_iso": "2026-07-13",
       "location": "Mesa, AZ",
@@ -1674,19 +1758,33 @@
       "lineup": [
         {
           "corps": "Seattle Cascades",
-          "time": "8:10 PM"
+          "time": "8:10 PM",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "8:27 PM"
+          "time": "8:27 PM",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "8:44 PM"
+          "time": "8:44 PM",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "8:56 PM"
+          "time": "8:56 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - The Bluecoats and The Academy",
+          "time": "9:13 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Event Concludes",
+          "time": "9:21 PM",
+          "competitive": false
         }
       ]
     },
@@ -1838,51 +1936,64 @@
     },
     {
       "slug": "2026-dci-central-texas",
-      "event_name": "DCI Central Texas",
+      "event_name": "Scores Announced",
       "date": "Thursday, July 16, 2026 8:20 PM",
       "date_iso": "2026-07-16",
       "location": "Killeen, TX",
       "venue": "Leo Buckley Stadium 500 N 38th St Killeen, TX 76543",
       "dci_url": "https://www.dci.org/events/2026-dci-central-texas/",
+      "scored": true,
       "lineup": [
         {
+          "corps": "Sky Ryders",
+          "time": "8:30 PM",
+          "competitive": false
+        },
+        {
           "corps": "Arsenal",
-          "time": "8:42 PM"
+          "time": "8:42 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "8:59 PM"
+          "time": "8:59 PM",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "9:16 PM"
+          "time": "9:16 PM",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "9:33 PM"
+          "time": "9:33 PM",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "9:50 PM"
+          "time": "9:50 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "10:07 PM"
+          "time": "10:07 PM",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "10:24 PM"
+          "time": "10:24 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "10:41 PM"
+          "time": "10:41 PM",
+          "competitive": true
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-denton",
-      "event_name": "DCI Denton",
+      "event_name": "Scores Announced",
       "date": "Thursday, July 16, 2026 8:20 PM",
       "date_iso": "2026-07-16",
       "location": "Denton, TX",
@@ -1892,39 +2003,48 @@
       "lineup": [
         {
           "corps": "Guardians",
-          "time": "8:30 PM"
+          "time": "8:30 PM",
+          "competitive": true
         },
         {
           "corps": "Zephyrus",
-          "time": "8:42 PM"
+          "time": "8:42 PM",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "8:59 PM"
+          "time": "8:59 PM",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "9:16 PM"
+          "time": "9:16 PM",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "9:33 PM"
+          "time": "9:33 PM",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "9:50 PM"
+          "time": "9:50 PM",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "10:07 PM"
+          "time": "10:07 PM",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "10:24 PM"
+          "time": "10:24 PM",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "10:41 PM"
+          "time": "10:41 PM",
+          "competitive": true
         }
       ]
     },
@@ -1992,7 +2112,7 @@
     },
     {
       "slug": "2026-sounds-by-the-seaport",
-      "event_name": "Sounds by the Seaport",
+      "event_name": "Event Concludes",
       "date": "Friday, July 17, 2026 7:00 PM",
       "date_iso": "2026-07-17",
       "location": "New London, CT",
@@ -2001,16 +2121,39 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Eastern Connecticut Symphony Orchestra",
+          "time": "7:05 PM",
+          "competitive": false
+        },
+        {
+          "corps": "CT Alumni",
+          "time": "7:20 PM",
+          "competitive": false
+        },
+        {
           "corps": "Les Stentors",
-          "time": "7:45 PM"
+          "time": "7:45 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Hall of Fame Recipients & Age-Out Recognition",
+          "time": "8:15 PM",
+          "competitive": false
         },
         {
           "corps": "Hurricanes",
-          "time": "8:40 PM"
+          "time": "8:40 PM",
+          "competitive": true
         },
         {
           "corps": "7th Regiment",
-          "time": "9:00 PM"
+          "time": "9:00 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Event Concludes",
+          "time": "9:30 PM",
+          "competitive": false
         }
       ]
     },
@@ -2403,43 +2546,50 @@
     },
     {
       "slug": "2026-dci-southern-mississippi",
-      "event_name": "DCI Southern Mississippi",
+      "event_name": "Troopers",
       "date": "Wednesday, July 22, 2026 7:30 PM",
       "date_iso": "2026-07-22",
       "location": "Hattiesburg, MS",
       "venue": "M. M. Roberts Stadium 118 College Dr Hattiesburg, MS 39406",
       "dci_url": "https://www.dci.org/events/2026-dci-southern-mississippi/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Blue Devils",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-drums-on-the-ohio",
@@ -2614,7 +2764,7 @@
     },
     {
       "slug": "2026-dci-middle-tennessee",
-      "event_name": "DCI Middle Tennessee",
+      "event_name": "Spirit of Atlanta",
       "date": "Friday, July 24, 2026 7:30 PM",
       "date_iso": "2026-07-24",
       "location": "Murfreesboro, TN",
@@ -2624,31 +2774,38 @@
       "lineup": [
         {
           "corps": "Blue Devils",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
@@ -3304,7 +3461,7 @@
     },
     {
       "slug": "2026-dci-annapolis",
-      "event_name": "DCI Annapolis",
+      "event_name": "Troopers",
       "date": "Tuesday, July 28, 2026 6:30 PM",
       "date_iso": "2026-07-28",
       "location": "Annapolis, MD",
@@ -3314,35 +3471,43 @@
       "lineup": [
         {
           "corps": "Raiders",
-          "time": "6:40 PM"
+          "time": "6:40 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
@@ -3405,7 +3570,7 @@
     },
     {
       "slug": "2026-summer-music-games-of-southwest-virginia",
-      "event_name": "Summer Music Games of Southwest Virginia",
+      "event_name": "The Academy",
       "date": "Wednesday, July 29, 2026 7:00 PM",
       "date_iso": "2026-07-29",
       "location": "Salem, VA",
@@ -3414,36 +3579,54 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Carolina Gold",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
           "corps": "Heat Wave",
-          "time": "7:22 PM"
+          "time": "7:22 PM",
+          "competitive": true
         },
         {
           "corps": "Raiders",
-          "time": "7:39 PM"
+          "time": "7:39 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Carolina Crown",
+          "time": "9:55 PM",
+          "competitive": false
         },
         {
           "corps": "Blue Stars",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
@@ -3769,7 +3952,7 @@
     },
     {
       "slug": "2026-dci-pittsburgh",
-      "event_name": "DCI Pittsburgh",
+      "event_name": "Spirit of Atlanta",
       "date": "Saturday, August 1, 2026 7:30 PM",
       "date_iso": "2026-08-01",
       "location": "Pittsburgh, PA",
@@ -3778,32 +3961,44 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Sonus Brass Theater",
+          "time": "7:40 PM",
+          "competitive": false
+        },
+        {
           "corps": "Columbus Saints",
-          "time": "7:52 PM"
+          "time": "7:52 PM",
+          "competitive": true
         },
         {
           "corps": "White Sabers",
-          "time": "8:09 PM"
+          "time": "8:09 PM",
+          "competitive": true
         },
         {
           "corps": "Rogues Hollow Regiment",
-          "time": "8:26 PM"
+          "time": "8:26 PM",
+          "competitive": true
         },
         {
           "corps": "Hurricanes",
-          "time": "8:43 PM"
+          "time": "8:43 PM",
+          "competitive": true
         },
         {
           "corps": "Bushwackers",
-          "time": "9:00 PM"
+          "time": "9:00 PM",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
@@ -3933,7 +4128,7 @@
     },
     {
       "slug": "2026-dci-open-class-world-championship-prelims",
-      "event_name": "DCI Open Class World Championship Prelims",
+      "event_name": "The Battalion",
       "date": "Monday, August 3, 2026 6:00 PM",
       "date_iso": "2026-08-03",
       "location": "Dayton, OH",
@@ -3943,51 +4138,68 @@
       "lineup": [
         {
           "corps": "7th Regiment",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Devils B",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Colt Cadets",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Columbians",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Eclipse",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Heat Wave",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Les Stentors",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Memphis Blues",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
+        },
+        {
+          "corps": "Mercedes Marching Band",
+          "time": "TBD",
+          "competitive": false
         },
         {
           "corps": "Raiders",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
@@ -4085,6 +4297,23 @@
           "corps": "The Academy",
           "time": "TBD",
           "competitive": true
+        }
+      ]
+    },
+    {
+      "slug": "2026-dci-open-class-world-championship-finals",
+      "event_name": "Retreat",
+      "date": "Tuesday, August 4, 2026 6:00 PM",
+      "date_iso": "2026-08-04",
+      "location": "Dayton, OH",
+      "venue": "Welcome Stadium 1601 S Edwin C Moses Blvd Dayton, OH 45417",
+      "dci_url": "https://www.dci.org/events/2026-dci-open-class-world-championship-finals/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "Mercedes Marching Band",
+          "time": "TBD",
+          "competitive": false
         }
       ]
     },
