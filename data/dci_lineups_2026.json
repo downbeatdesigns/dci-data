@@ -4,7 +4,7 @@
   "events": [
     {
       "slug": "2026-santa-clara-vanguard-showcase",
-      "event_name": "Santa Clara Vanguard Showcase",
+      "event_name": "Santa Clara Vanguard",
       "date": "Friday, June 26, 2026 7:00 PM",
       "date_iso": "2026-06-26",
       "location": "Moscow, ID",
@@ -14,21 +14,24 @@
       "lineup": [
         {
           "corps": "Columbians",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Gems",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": ""
+          "time": "",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-dci-tour-preview",
-      "event_name": "DCI Tour Preview",
+      "event_name": "Event Concludes",
       "date": "Friday, June 26, 2026 8:00 PM",
       "date_iso": "2026-06-26",
       "location": "Muncie, IN",
@@ -38,21 +41,34 @@
       "lineup": [
         {
           "corps": "Cincinnati Tradition",
-          "time": "8:15 PM"
+          "time": "8:15 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "8:45 PM"
+          "time": "8:45 PM",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "9:15 PM"
+          "time": "9:15 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Bands of America & Carolina Crown",
+          "time": "9:45 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Event Concludes",
+          "time": "10:00 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-barnum-festival-champions-on-parade",
-      "event_name": "Barnum Festival: Champions on Parade",
+      "event_name": "Scores Announced",
       "date": "Saturday, June 27, 2026 6:00 PM",
       "date_iso": "2026-06-27",
       "location": "Shelton, CT",
@@ -61,30 +77,55 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "North Star",
+          "time": "6:40 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Crusaders Senior",
+          "time": "6:58 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Hawthorne Caballeros Alumni",
+          "time": "7:16 PM",
+          "competitive": false
+        },
+        {
+          "corps": "CT Alumni",
+          "time": "7:34 PM",
+          "competitive": false
+        },
+        {
           "corps": "7th Regiment",
-          "time": "7:52 PM"
+          "time": "7:52 PM",
+          "competitive": true
         },
         {
           "corps": "Reading Buccaneers",
-          "time": "8:10 PM"
+          "time": "8:10 PM",
+          "competitive": true
         },
         {
           "corps": "Hawthorne Caballeros",
-          "time": "8:28 PM"
+          "time": "8:28 PM",
+          "competitive": true
         },
         {
           "corps": "Bushwackers",
-          "time": "8:46 PM"
+          "time": "8:46 PM",
+          "competitive": true
         },
         {
           "corps": "Hurricanes",
-          "time": "9:04 PM"
+          "time": "9:04 PM",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-drums-along-the-rockies",
-      "event_name": "Drums Along the Rockies",
+      "event_name": "Scores Announced",
       "date": "Saturday, June 27, 2026 7:30 PM",
       "date_iso": "2026-06-27",
       "location": "Fort Collins, CO",
@@ -93,30 +134,55 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Rocky Mountain Brassworks",
+          "time": "7:15 PM",
+          "competitive": false
+        },
+        {
+          "corps": "BKXperience",
+          "time": "7:25 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Troopers Legacy Corps",
+          "time": "7:45 PM",
+          "competitive": false
+        },
+        {
           "corps": "Genesis",
-          "time": "8:03 PM"
+          "time": "8:03 PM",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "8:21 PM"
+          "time": "8:21 PM",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "9:00 PM"
+          "time": "9:00 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "9:18 PM"
+          "time": "9:18 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "9:36 PM"
+          "time": "9:36 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Blue Knights",
+          "time": "9:54 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-bluecoats-opening-night-community-celebration",
-      "event_name": "Bluecoats Opening Night Community Celebration",
+      "event_name": "Event Concludes",
       "date": "Saturday, June 27, 2026 6:00 PM",
       "date_iso": "2026-06-27",
       "location": "Alliance, OH",
@@ -126,25 +192,64 @@
       "lineup": [
         {
           "corps": "Columbus Saints",
-          "time": "6:15 PM"
+          "time": "6:15 PM",
+          "competitive": true
         },
         {
           "corps": "Rogues Hollow Regiment",
-          "time": "6:25 PM"
+          "time": "6:25 PM",
+          "competitive": true
         },
         {
           "corps": "Cincinnati Tradition",
-          "time": "6:40 PM"
+          "time": "6:40 PM",
+          "competitive": true
         },
         {
           "corps": "Eclipse",
-          "time": "6:55 PM"
+          "time": "6:55 PM",
+          "competitive": true
+        },
+        {
+          "corps": "EN-CORPS by EN-RICH-MENT",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Bluecoats Alumni Legacy Arc",
+          "time": "7:25 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Rhythm IN BLUE - Bluecoats",
+          "time": "7:40 PM",
+          "competitive": false
+        },
+        {
+          "corps": "The Bluecoats",
+          "time": "7:55 PM",
+          "competitive": false
+        },
+        {
+          "corps": "The Blue Way Summer Arts Camp",
+          "time": "8:18 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Encore - Bluecoats",
+          "time": "8:28 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Event Concludes",
+          "time": "8:53 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-corps-encore",
-      "event_name": "Corps Encore",
+      "event_name": "Crosstown Big Band",
       "date": "Sunday, June 28, 2026 7:30 PM",
       "date_iso": "2026-06-28",
       "location": "Ogden, UT",
@@ -153,26 +258,45 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Crosstown Big Band",
+          "time": "7:35 PM",
+          "competitive": false
+        },
+        {
           "corps": "Genesis",
-          "time": "8:00 PM"
+          "time": "8:00 PM",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "8:23 PM"
+          "time": "8:23 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "9:00 PM"
+          "time": "9:00 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "9:23 PM"
+          "time": "9:23 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Blue Knights",
+          "time": "9:41 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Crosstown Big Band",
+          "time": "",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-drums-along-the-columbia",
-      "event_name": "Drums Along the Columbia",
+      "event_name": "Gates Open",
       "date": "Monday, June 29, 2026 7:00 PM",
       "date_iso": "2026-06-29",
       "location": "Kennewick, WA",
@@ -182,33 +306,44 @@
       "lineup": [
         {
           "corps": "Gems",
-          "time": "7:40 PM"
+          "time": "7:40 PM",
+          "competitive": true
         },
         {
           "corps": "Impulse",
-          "time": "7:58 PM"
+          "time": "7:58 PM",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": "8:16 PM"
+          "time": "8:16 PM",
+          "competitive": true
         },
         {
           "corps": "Columbians",
-          "time": "8:34 PM"
+          "time": "8:34 PM",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "8:52 PM"
+          "time": "8:52 PM",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "9:10 PM"
+          "time": "9:10 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Event Concludes",
+          "time": "9:17 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-northwest-youth-music-games-seattle",
-      "event_name": "Northwest Youth Music Games Seattle",
+      "event_name": "Scores Announced",
       "date": "Tuesday, June 30, 2026 7:30 PM",
       "date_iso": "2026-06-30",
       "location": "Seattle, WA",
@@ -218,33 +353,44 @@
       "lineup": [
         {
           "corps": "Gems",
-          "time": "7:40 PM"
+          "time": "7:40 PM",
+          "competitive": true
         },
         {
           "corps": "Impulse",
-          "time": "7:52 PM"
+          "time": "7:52 PM",
+          "competitive": true
         },
         {
           "corps": "Columbians",
-          "time": "8:07 PM"
+          "time": "8:07 PM",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": "8:22 PM"
+          "time": "8:22 PM",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "8:52 PM"
+          "time": "8:52 PM",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "9:10 PM"
+          "time": "9:10 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Seattle Cascades",
+          "time": "9:28 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-drums-across-nebraska",
-      "event_name": "Drums Across Nebraska",
+      "event_name": "Scores Announced",
       "date": "Wednesday, July 1, 2026 7:00 PM",
       "date_iso": "2026-07-01",
       "location": "Omaha, NE",
@@ -254,33 +400,44 @@
       "lineup": [
         {
           "corps": "Colt Cadets",
-          "time": "7:10 PM"
+          "time": "7:10 PM",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "7:28 PM"
+          "time": "7:28 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "7:46 PM"
+          "time": "7:46 PM",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "8:24 PM"
+          "time": "8:24 PM",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "8:42 PM"
+          "time": "8:42 PM",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "9:00 PM"
+          "time": "9:00 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Colts",
+          "time": "9:18 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-northwest-youth-music-games-portland",
-      "event_name": "Northwest Youth Music Games Portland",
+      "event_name": "Scores Announced",
       "date": "Wednesday, July 1, 2026 7:30 PM",
       "date_iso": "2026-07-01",
       "location": "Portland, OR",
@@ -289,34 +446,50 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "One More Time Around Marching Band",
+          "time": "7:15 PM",
+          "competitive": false
+        },
+        {
           "corps": "Gems",
-          "time": "7:40 PM"
+          "time": "7:40 PM",
+          "competitive": true
         },
         {
           "corps": "Impulse",
-          "time": "7:52 PM"
+          "time": "7:52 PM",
+          "competitive": true
         },
         {
           "corps": "Columbians",
-          "time": "8:07 PM"
+          "time": "8:07 PM",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": "8:22 PM"
+          "time": "8:22 PM",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "8:52 PM"
+          "time": "8:52 PM",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "9:10 PM"
+          "time": "9:10 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Seattle Cascades",
+          "time": "9:28 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-preview-of-champions",
-      "event_name": "Preview of Champions",
+      "event_name": "Event Concludes",
       "date": "Thursday, July 2, 2026 7:00 PM",
       "date_iso": "2026-07-02",
       "location": "Nashua, NH",
@@ -326,25 +499,39 @@
       "lineup": [
         {
           "corps": "Les Stentors",
-          "time": "7:10 PM"
+          "time": "7:10 PM",
+          "competitive": true
         },
         {
           "corps": "7th Regiment",
-          "time": "7:35 PM"
+          "time": "7:35 PM",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "8:30 PM"
+          "time": "8:30 PM",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "8:55 PM"
+          "time": "8:55 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Spartans",
+          "time": "9:20 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Event Concludes",
+          "time": "9:45 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-rotary-music-festival",
-      "event_name": "Rotary Music Festival",
+      "event_name": "Scores Announced",
       "date": "Thursday, July 2, 2026 7:30 PM",
       "date_iso": "2026-07-02",
       "location": "Cedarburg, WI",
@@ -354,25 +541,34 @@
       "lineup": [
         {
           "corps": "Eclipse",
-          "time": "7:40 PM"
+          "time": "7:40 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "7:58 PM"
+          "time": "7:58 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "8:16 PM"
+          "time": "8:16 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "8:39 PM"
+          "time": "8:39 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Madison Scouts",
+          "time": "9:02 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-midcal-showcase",
-      "event_name": "MidCal Showcase",
+      "event_name": "Event Concludes",
       "date": "Thursday, July 2, 2026 7:50 PM",
       "date_iso": "2026-07-02",
       "location": "Camarillo, CA",
@@ -382,23 +578,33 @@
       "lineup": [
         {
           "corps": "Golden Empire",
-          "time": "8:00 PM"
+          "time": "8:00 PM",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "8:25 PM"
+          "time": "8:25 PM",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "8:50 PM"
+          "time": "8:50 PM",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "9:15 PM"
+          "time": "9:15 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "9:40 PM"
+          "time": "9:40 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Event Concludes",
+          "time": "10:00 PM",
+          "competitive": false
         }
       ]
     },
@@ -444,7 +650,7 @@
     },
     {
       "slug": "2026-show-of-shows",
-      "event_name": "Show of Shows",
+      "event_name": "Scores Announced",
       "date": "Friday, July 3, 2026 6:30 PM",
       "date_iso": "2026-07-03",
       "location": "Rockford, IL",
@@ -453,46 +659,65 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Conquest Drum & Bugle Corps",
+          "time": "6:40 PM",
+          "competitive": false
+        },
+        {
           "corps": "Colt Cadets",
-          "time": "6:52 PM"
+          "time": "6:52 PM",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "7:10 PM"
+          "time": "7:10 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "7:28 PM"
+          "time": "7:28 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "7:46 PM"
+          "time": "7:46 PM",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "8:04 PM"
+          "time": "8:04 PM",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "8:52 PM"
+          "time": "8:52 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "9:10 PM"
+          "time": "9:10 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "9:28 PM"
+          "time": "9:28 PM",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "9:46 PM"
+          "time": "9:46 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Phantom Regiment",
+          "time": "10:04 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-dci-west",
-      "event_name": "DCI West",
+      "event_name": "Scores Announced",
       "date": "Sunday, July 5, 2026 5:25 PM",
       "date_iso": "2026-07-05",
       "location": "Stanford, CA",
@@ -501,44 +726,74 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Alisal Union School District Marching Band",
+          "time": "5:35 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Alisal Union School District All-Star Academy",
+          "time": "5:45 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Sacramento Freelancers",
+          "time": "5:55 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Sparta Ignite",
+          "time": "6:10 PM",
+          "competitive": false
+        },
+        {
           "corps": "Golden Empire",
-          "time": "6:40 PM"
+          "time": "6:40 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "6:57 PM"
+          "time": "6:57 PM",
+          "competitive": true
         },
         {
           "corps": "Impulse",
-          "time": "7:14 PM"
+          "time": "7:14 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils C",
-          "time": "7:31 PM"
+          "time": "7:31 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils B",
-          "time": "7:48 PM"
+          "time": "7:48 PM",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "8:40 PM"
+          "time": "8:40 PM",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "8:57 PM"
+          "time": "8:57 PM",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "9:14 PM"
+          "time": "9:14 PM",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "9:31 PM"
+          "time": "9:31 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "9:48 PM"
+          "time": "9:48 PM",
+          "competitive": true
         }
       ]
     },
@@ -660,7 +915,7 @@
     },
     {
       "slug": "2026-celebration-in-brass",
-      "event_name": "Celebration in Brass",
+      "event_name": "Scores Announced",
       "date": "Wednesday, July 8, 2026 7:00 PM",
       "date_iso": "2026-07-08",
       "location": "Des Moines, IA",
@@ -670,73 +925,96 @@
       "lineup": [
         {
           "corps": "Colt Cadets",
-          "time": "7:10 PM"
+          "time": "7:10 PM",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": "7:27 PM"
+          "time": "7:27 PM",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "7:44 PM"
+          "time": "7:44 PM",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "8:01 PM"
+          "time": "8:01 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "8:38 PM"
+          "time": "8:38 PM",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "8:55 PM"
+          "time": "8:55 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "9:12 PM"
+          "time": "9:12 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "9:29 PM"
+          "time": "9:29 PM",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "9:46 PM"
+          "time": "9:46 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Colts",
+          "time": "10:03 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-drums-across-america",
-      "event_name": "Drums Across America",
+      "event_name": "Scores Announced",
       "date": "Wednesday, July 8, 2026 7:30 PM",
       "date_iso": "2026-07-08",
       "location": "Newnan, GA",
       "venue": "Vikings Stadium 3220 Fischer Rd Newnan, GA 30265",
       "dci_url": "https://www.dci.org/events/2026-drums-across-america/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Atlanta CV",
-          "time": "7:40 PM"
+          "time": "7:40 PM",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "8:02 PM"
+          "time": "8:02 PM",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "8:24 PM"
+          "time": "8:24 PM",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "8:42 PM"
+          "time": "8:42 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Spirit of Atlanta",
+          "time": "9:04 PM",
+          "competitive": false
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-northern-alabama",
-      "event_name": "DCI Northern Alabama",
+      "event_name": "Scores Announced",
       "date": "Thursday, July 9, 2026 8:00 PM",
       "date_iso": "2026-07-09",
       "location": "Muscle Shoals, AL",
@@ -745,30 +1023,45 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Apollo Marching Theatre",
+          "time": "8:10 PM",
+          "competitive": false
+        },
+        {
           "corps": "Atlanta CV",
-          "time": "8:22 PM"
+          "time": "8:22 PM",
+          "competitive": true
         },
         {
           "corps": "Memphis Blues",
-          "time": "8:39 PM"
+          "time": "8:39 PM",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "8:56 PM"
+          "time": "8:56 PM",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "9:13 PM"
+          "time": "9:13 PM",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "9:30 PM"
+          "time": "9:30 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Spirit of Atlanta",
+          "time": "9:47 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-gold-showcase",
-      "event_name": "Gold Showcase",
+      "event_name": "Scores Announced",
       "date": "Thursday, July 9, 2026 5:50 PM",
       "date_iso": "2026-07-09",
       "location": "Santa Clarita, CA",
@@ -778,81 +1071,112 @@
       "lineup": [
         {
           "corps": "Blue Devils C",
-          "time": "6:00 PM"
+          "time": "6:00 PM",
+          "competitive": true
         },
         {
           "corps": "Golden Empire",
-          "time": "6:17 PM"
+          "time": "6:17 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils B",
-          "time": "6:34 PM"
+          "time": "6:34 PM",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "6:51 PM"
+          "time": "6:51 PM",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "7:08 PM"
+          "time": "7:08 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "7:55 PM"
+          "time": "7:55 PM",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "8:12 PM"
+          "time": "8:12 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "8:29 PM"
+          "time": "8:29 PM",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "8:46 PM"
+          "time": "8:46 PM",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-cavalcade-of-brass",
-      "event_name": "Cavalcade of Brass",
+      "event_name": "Scores Announced",
       "date": "Friday, July 10, 2026 7:30 PM",
       "date_iso": "2026-07-10",
       "location": "Lisle, IL",
       "venue": "The Sports Complex at Benedictine University 5700 College Road Lisle, IL 60532",
       "dci_url": "https://www.dci.org/events/2026-cavalcade-of-brass/",
+      "scored": true,
       "lineup": [
         {
+          "corps": "Rosemont King Cobras",
+          "time": "7:40 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Sound of Sun Prairie",
+          "time": "7:50 PM",
+          "competitive": false
+        },
+        {
           "corps": "Northern Lights",
-          "time": "8:00 PM"
+          "time": "8:00 PM",
+          "competitive": true
         },
         {
           "corps": "Eclipse",
-          "time": "8:12 PM"
+          "time": "8:12 PM",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "8:29 PM"
+          "time": "8:29 PM",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "8:46 PM"
+          "time": "8:46 PM",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "9:20 PM"
+          "time": "9:20 PM",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "9:37 PM"
+          "time": "9:37 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "9:54 PM"
+          "time": "9:54 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - The Cavaliers",
+          "time": "10:11 PM",
+          "competitive": false
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-music-on-the-march",
@@ -896,7 +1220,7 @@
     },
     {
       "slug": "2026-western-corps-connection",
-      "event_name": "Western Corps Connection",
+      "event_name": "Scores Announced",
       "date": "Friday, July 10, 2026 5:45 PM",
       "date_iso": "2026-07-10",
       "location": "Walnut, CA",
@@ -906,53 +1230,64 @@
       "lineup": [
         {
           "corps": "Blue Devils B",
-          "time": "6:00 PM"
+          "time": "6:00 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils C",
-          "time": "6:15 PM"
+          "time": "6:15 PM",
+          "competitive": true
         },
         {
           "corps": "Golden Empire",
-          "time": "6:30 PM"
+          "time": "6:30 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "6:45 PM"
+          "time": "6:45 PM",
+          "competitive": true
         },
         {
           "corps": "Impulse",
-          "time": "7:00 PM"
+          "time": "7:00 PM",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "8:00 PM"
+          "time": "8:00 PM",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "8:17 PM"
+          "time": "8:17 PM",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "8:34 PM"
+          "time": "8:34 PM",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "8:51 PM"
+          "time": "8:51 PM",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "9:08 PM"
+          "time": "9:08 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "9:25 PM"
+          "time": "9:25 PM",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-dci-little-rock",
-      "event_name": "DCI Little Rock",
+      "event_name": "Scores Announced",
       "date": "Saturday, July 11, 2026 8:00 PM",
       "date_iso": "2026-07-11",
       "location": "Little Rock, AR",
@@ -962,33 +1297,44 @@
       "lineup": [
         {
           "corps": "Memphis Blues",
-          "time": "8:10 PM"
+          "time": "8:10 PM",
+          "competitive": true
         },
         {
           "corps": "Zephyrus",
-          "time": "8:27 PM"
+          "time": "8:27 PM",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "8:44 PM"
+          "time": "8:44 PM",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "9:01 PM"
+          "time": "9:01 PM",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "9:18 PM"
+          "time": "9:18 PM",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "9:35 PM"
+          "time": "9:35 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Carolina Crown",
+          "time": "9:52 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-drum-corps-at-the-rose-bowl",
-      "event_name": "Drum Corps at the Rose Bowl",
+      "event_name": "Scores Announced",
       "date": "Saturday, July 11, 2026 5:15 PM",
       "date_iso": "2026-07-11",
       "location": "Pasadena, CA",
@@ -997,54 +1343,75 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Sacramento Freelancers",
+          "time": "5:35 PM",
+          "competitive": false
+        },
+        {
           "corps": "Blue Devils C",
-          "time": "5:50 PM"
+          "time": "5:50 PM",
+          "competitive": true
         },
         {
           "corps": "Golden Empire",
-          "time": "6:05 PM"
+          "time": "6:05 PM",
+          "competitive": true
         },
         {
           "corps": "Impulse",
-          "time": "6:20 PM"
+          "time": "6:20 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils B",
-          "time": "6:35 PM"
+          "time": "6:35 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "6:50 PM"
+          "time": "6:50 PM",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "7:50 PM"
+          "time": "7:50 PM",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "8:08 PM"
+          "time": "8:08 PM",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "8:26 PM"
+          "time": "8:26 PM",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "8:44 PM"
+          "time": "8:44 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "9:02 PM"
+          "time": "9:02 PM",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "9:20 PM"
+          "time": "9:20 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Pacific Crest",
+          "time": "9:38 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-drum-corps-grand-prix",
-      "event_name": "Drum Corps Grand Prix",
+      "event_name": "Scores Announced",
       "date": "Saturday, July 11, 2026 6:30 PM",
       "date_iso": "2026-07-11",
       "location": "Clifton, NJ",
@@ -1053,46 +1420,75 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Sonus Brass Theater",
+          "time": "6:40 PM",
+          "competitive": false
+        },
+        {
           "corps": "Raiders",
-          "time": "6:52 PM"
+          "time": "6:52 PM",
+          "competitive": true
         },
         {
           "corps": "Les Stentors",
-          "time": "7:09 PM"
+          "time": "7:09 PM",
+          "competitive": true
         },
         {
           "corps": "7th Regiment",
-          "time": "7:26 PM"
+          "time": "7:26 PM",
+          "competitive": true
         },
         {
           "corps": "White Sabers",
-          "time": "7:43 PM"
+          "time": "7:43 PM",
+          "competitive": true
         },
         {
           "corps": "Sunrisers",
-          "time": "8:00 PM"
+          "time": "8:00 PM",
+          "competitive": true
         },
         {
           "corps": "Bushwackers",
-          "time": "8:17 PM"
+          "time": "8:17 PM",
+          "competitive": true
         },
         {
           "corps": "Reading Buccaneers",
-          "time": "8:34 PM"
+          "time": "8:34 PM",
+          "competitive": true
         },
         {
           "corps": "Hurricanes",
-          "time": "8:51 PM"
+          "time": "8:51 PM",
+          "competitive": true
         },
         {
           "corps": "Hawthorne Caballeros",
-          "time": "9:08 PM"
+          "time": "9:08 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Hall of Fame Induction",
+          "time": "9:25 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Hawthorne Caballeros Alumni",
+          "time": "9:35 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Encore - Hawthorne Caballeros",
+          "time": "9:52 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-the-whitewater-classic",
-      "event_name": "The Whitewater Classic",
+      "event_name": "Scores Announced",
       "date": "Saturday, July 11, 2026 5:45 PM",
       "date_iso": "2026-07-11",
       "location": "Whitewater, WI",
@@ -1101,48 +1497,74 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Green Beret Marching Band",
+          "time": "5:55 PM",
+          "competitive": false
+        },
+        {
+          "corps": "The Connexion",
+          "time": "6:05 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Sound of Sun Prairie",
+          "time": "6:15 PM",
+          "competitive": false
+        },
+        {
           "corps": "Eclipse",
-          "time": "6:27 PM"
+          "time": "6:27 PM",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": "6:44 PM"
+          "time": "6:44 PM",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "7:01 PM"
+          "time": "7:01 PM",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "7:18 PM"
+          "time": "7:18 PM",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "7:35 PM"
+          "time": "7:35 PM",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "8:09 PM"
+          "time": "8:09 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "8:26 PM"
+          "time": "8:26 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "8:43 PM"
+          "time": "8:43 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "9:00 PM"
+          "time": "9:00 PM",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "9:17 PM"
+          "time": "9:17 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "9:34 PM"
+          "time": "9:34 PM",
+          "competitive": true
         }
       ]
     },
@@ -1180,7 +1602,7 @@
     },
     {
       "slug": "2026-brass-impact",
-      "event_name": "Brass Impact",
+      "event_name": "Scores Announced",
       "date": "Monday, July 13, 2026 7:30 PM",
       "date_iso": "2026-07-13",
       "location": "Olathe, KS",
@@ -1189,36 +1611,54 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Sky Ryders",
+          "time": "7:38 PM",
+          "competitive": false
+        },
+        {
           "corps": "Colt Cadets",
-          "time": "7:50 PM"
+          "time": "7:50 PM",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "8:07 PM"
+          "time": "8:07 PM",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "8:24 PM"
+          "time": "8:24 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "8:41 PM"
+          "time": "8:41 PM",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "9:13 PM"
+          "time": "9:13 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "9:30 PM"
+          "time": "9:30 PM",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "9:47 PM"
+          "time": "9:47 PM",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "10:04 PM"
+          "time": "10:04 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Colts",
+          "time": "10:21 PM",
+          "competitive": false
         }
       ]
     },
@@ -1252,7 +1692,7 @@
     },
     {
       "slug": "2026-dci-broken-arrow",
-      "event_name": "DCI Broken Arrow",
+      "event_name": "Scores Announced",
       "date": "Tuesday, July 14, 2026 8:00 PM",
       "date_iso": "2026-07-14",
       "location": "Broken Arrow, OK",
@@ -1262,41 +1702,49 @@
       "lineup": [
         {
           "corps": "Zephyrus",
-          "time": "8:10 PM"
+          "time": "8:10 PM",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "8:27 PM"
+          "time": "8:27 PM",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "8:44 PM"
+          "time": "8:44 PM",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "9:01 PM"
+          "time": "9:01 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "9:18 PM"
+          "time": "9:18 PM",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "9:52 PM"
+          "time": "9:52 PM",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "10:09 PM"
+          "time": "10:09 PM",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "10:26 PM"
+          "time": "10:26 PM",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-dci-hutchinson",
-      "event_name": "DCI Hutchinson",
+      "event_name": "Scores Announced",
       "date": "Tuesday, July 14, 2026 8:00 PM",
       "date_iso": "2026-07-14",
       "location": "Hutchinson, KS",
@@ -1305,62 +1753,88 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Sky Ryders",
+          "time": "8:10 PM",
+          "competitive": false
+        },
+        {
           "corps": "Spartans",
-          "time": "8:22 PM"
+          "time": "8:22 PM",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "8:39 PM"
+          "time": "8:39 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "8:56 PM"
+          "time": "8:56 PM",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "9:30 PM"
+          "time": "9:30 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "9:47 PM"
+          "time": "9:47 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "10:04 PM"
+          "time": "10:04 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Blue Knights",
+          "time": "10:21 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-dci-new-mexico",
-      "event_name": "DCI New Mexico",
+      "event_name": "Scores Announced",
       "date": "Tuesday, July 14, 2026 8:20 PM",
       "date_iso": "2026-07-14",
       "location": "Albuquerque, NM",
       "venue": "Rio Rancho Ram Stadium 301 Loma Colorado St. NE Rio Rancho, NM 87124",
       "dci_url": "https://www.dci.org/events/2026-dci-new-mexico/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Arsenal",
-          "time": "8:30 PM"
+          "time": "8:30 PM",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "8:47 PM"
+          "time": "8:47 PM",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "9:04 PM"
+          "time": "9:04 PM",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "9:21 PM"
+          "time": "9:21 PM",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "9:38 PM"
+          "time": "9:38 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Pacific Crest",
+          "time": "9:55 PM",
+          "competitive": false
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-central-texas",
@@ -1456,7 +1930,7 @@
     },
     {
       "slug": "2026-dci-houston",
-      "event_name": "DCI Houston",
+      "event_name": "Scores Announced",
       "date": "Friday, July 17, 2026 8:00 PM",
       "date_iso": "2026-07-17",
       "location": "Houston, TX",
@@ -1466,43 +1940,53 @@
       "lineup": [
         {
           "corps": "Spartans",
-          "time": "8:10 PM"
+          "time": "8:10 PM",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "8:27 PM"
+          "time": "8:27 PM",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "8:44 PM"
+          "time": "8:44 PM",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "9:01 PM"
+          "time": "9:01 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "9:18 PM"
+          "time": "9:18 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "9:35 PM"
+          "time": "9:35 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "9:52 PM"
+          "time": "9:52 PM",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "10:09 PM"
+          "time": "10:09 PM",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "10:26 PM"
+          "time": "10:26 PM",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "10:43 PM"
+          "time": "10:43 PM",
+          "competitive": true
         }
       ]
     },
@@ -1532,7 +2016,7 @@
     },
     {
       "slug": "2026-dci-southwestern-championship",
-      "event_name": "DCI Southwestern Championship",
+      "event_name": "Troopers",
       "date": "Saturday, July 18, 2026 1:30 PM",
       "date_iso": "2026-07-18",
       "location": "San Antonio, TX",
@@ -1542,141 +2026,191 @@
       "lineup": [
         {
           "corps": "Guardians",
-          "time": "1:40 PM"
+          "time": "1:40 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Sky Ryders",
+          "time": "1:50 PM",
+          "competitive": false
         },
         {
           "corps": "Arsenal",
-          "time": "2:02 PM"
+          "time": "2:02 PM",
+          "competitive": true
         },
         {
           "corps": "Zephyrus",
-          "time": "2:19 PM"
+          "time": "2:19 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "2:36 PM"
+          "time": "2:36 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-the-buccaneer-classic",
-      "event_name": "The Buccaneer Classic",
+      "event_name": "Scores Announced",
       "date": "Saturday, July 18, 2026 6:30 PM",
       "date_iso": "2026-07-18",
       "location": "Landisville, PA",
       "venue": "Georgelis Law Firm Stadium 340 Mumma Dr Landisville, PA 17538",
       "dci_url": "https://www.dci.org/events/2026-the-buccaneer-classic/",
+      "scored": true,
       "lineup": [
         {
+          "corps": "Buccaneer Banner Brass",
+          "time": "6:40 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Buccaneers Alumni",
+          "time": "6:52 PM",
+          "competitive": false
+        },
+        {
           "corps": "Les Stentors",
-          "time": "7:09 PM"
+          "time": "7:09 PM",
+          "competitive": true
         },
         {
           "corps": "Raiders",
-          "time": "7:26 PM"
+          "time": "7:26 PM",
+          "competitive": true
         },
         {
           "corps": "Sunrisers",
-          "time": "8:00 PM"
+          "time": "8:00 PM",
+          "competitive": true
         },
         {
           "corps": "White Sabers",
-          "time": "8:17 PM"
+          "time": "8:17 PM",
+          "competitive": true
         },
         {
           "corps": "Bushwackers",
-          "time": "8:34 PM"
+          "time": "8:34 PM",
+          "competitive": true
         },
         {
           "corps": "Reading Buccaneers",
-          "time": "8:51 PM"
+          "time": "8:51 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Hawthorne Caballeros Alumni",
+          "time": "9:08 PM",
+          "competitive": false
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-dallas",
-      "event_name": "DCI Dallas",
+      "event_name": "Scores Announced",
       "date": "Sunday, July 19, 2026 7:00 PM",
       "date_iso": "2026-07-19",
       "location": "Bedford, TX",
@@ -1686,53 +2220,64 @@
       "lineup": [
         {
           "corps": "Arsenal",
-          "time": "7:10 PM"
+          "time": "7:10 PM",
+          "competitive": true
         },
         {
           "corps": "Zephyrus",
-          "time": "7:27 PM"
+          "time": "7:27 PM",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "7:44 PM"
+          "time": "7:44 PM",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "8:01 PM"
+          "time": "8:01 PM",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "8:18 PM"
+          "time": "8:18 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "8:35 PM"
+          "time": "8:35 PM",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "8:52 PM"
+          "time": "8:52 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "9:09 PM"
+          "time": "9:09 PM",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "9:26 PM"
+          "time": "9:26 PM",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "9:43 PM"
+          "time": "9:43 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "10:00 PM"
+          "time": "10:00 PM",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-raiders-tour-send-off",
-      "event_name": "Raiders Tour Send-Off",
+      "event_name": "Joint Performance",
       "date": "Sunday, July 19, 2026 7:00 PM",
       "date_iso": "2026-07-19",
       "location": "Aston Township, PA",
@@ -1742,97 +2287,119 @@
       "lineup": [
         {
           "corps": "Les Stentors",
-          "time": "7:15 PM"
+          "time": "7:15 PM",
+          "competitive": true
         },
         {
           "corps": "Raiders",
-          "time": "8:00 PM"
+          "time": "8:00 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Joint Performance",
+          "time": "8:45 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-dci-mckinney",
-      "event_name": "DCI McKinney",
+      "event_name": "Troopers",
       "date": "Monday, July 20, 2026 8:00 PM",
       "date_iso": "2026-07-20",
       "location": "McKinney, TX",
       "venue": "McKinney ISD Stadium 4201 S Hardin Blvd McKinney, TX 75070",
       "dci_url": "https://www.dci.org/events/2026-dci-mckinney/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Guardians",
-          "time": "8:10 PM"
+          "time": "8:10 PM",
+          "competitive": true
         },
         {
           "corps": "Zephyrus",
-          "time": "8:22 PM"
+          "time": "8:22 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-st-louis",
-      "event_name": "DCI St. Louis",
+      "event_name": "The Cavaliers",
       "date": "Tuesday, July 21, 2026 8:00 PM",
       "date_iso": "2026-07-21",
       "location": "Belleville, IL",
       "venue": "Bob Goalby Field 4063 Frank Scott Parkway W Belleville, IL 62223",
       "dci_url": "https://www.dci.org/events/2026-dci-st-louis/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Gold",
-          "time": "8:10 PM"
+          "time": "8:10 PM",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": "8:27 PM"
+          "time": "8:27 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-southern-mississippi",
@@ -1876,99 +2443,174 @@
     },
     {
       "slug": "2026-drums-on-the-ohio",
-      "event_name": "Drums on the Ohio",
+      "event_name": "Seattle Cascades",
       "date": "Wednesday, July 22, 2026 7:00 PM",
       "date_iso": "2026-07-22",
       "location": "Evansville, IN",
       "venue": "Evansville FJ Reitz High School 350 N. Dreier Blvd. Evansville, IN 47712",
       "dci_url": "https://www.dci.org/events/2026-drums-on-the-ohio/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Gold",
-          "time": "7:10 PM"
+          "time": "7:10 PM",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": "7:27 PM"
+          "time": "7:27 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - TBD",
+          "time": "9:56 PM",
+          "competitive": false
         },
         {
           "corps": "Colts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
-      ],
-      "scored": true
+      ]
+    },
+    {
+      "slug": "2026-march-on",
+      "event_name": "Scores Announced",
+      "date": "Wednesday, July 22, 2026 7:00 PM",
+      "date_iso": "2026-07-22",
+      "location": "Champlin, MN",
+      "venue": "Champlin Park High School Football Field 6025 109th Ave N Champlin, MN 55316",
+      "dci_url": "https://www.dci.org/events/2026-march-on/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "RCR Street Club",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
+          "corps": "MBI",
+          "time": "7:22 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Govenaires",
+          "time": "7:39 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Colt Cadets",
+          "time": "7:56 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Columbians",
+          "time": "8:13 PM",
+          "competitive": true
+        },
+        {
+          "corps": "River City Rhythm",
+          "time": "8:30 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - River City Rhythm",
+          "time": "8:47 PM",
+          "competitive": false
+        }
+      ]
     },
     {
       "slug": "2026-dci-birmingham",
-      "event_name": "DCI Birmingham",
+      "event_name": "Troopers",
       "date": "Friday, July 24, 2026 7:30 PM",
       "date_iso": "2026-07-24",
       "location": "Birmingham, AL",
       "venue": "Jaguar Stadium at Spain Park High School 4700 Jaguar Dr Birmingham, AL 35242",
       "dci_url": "https://www.dci.org/events/2026-dci-birmingham/",
+      "scored": true,
       "lineup": [
         {
+          "corps": "Apollo Marching Theatre",
+          "time": "7:40 PM",
+          "competitive": false
+        },
+        {
           "corps": "Fusion Core",
-          "time": "7:52 PM"
+          "time": "7:52 PM",
+          "competitive": true
         },
         {
           "corps": "Atlanta CV",
-          "time": "8:09 PM"
+          "time": "8:09 PM",
+          "competitive": true
         },
         {
           "corps": "Memphis Blues",
-          "time": "8:26 PM"
+          "time": "8:26 PM",
+          "competitive": true
         },
         {
           "corps": "Heat Wave",
-          "time": "8:43 PM"
+          "time": "8:43 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-middle-tennessee",
@@ -2012,39 +2654,59 @@
     },
     {
       "slug": "2026-dci-syracuse",
-      "event_name": "DCI Syracuse",
+      "event_name": "Scores Announced",
       "date": "Friday, July 24, 2026 7:00 PM",
       "date_iso": "2026-07-24",
       "location": "Central Square, NY",
       "venue": "Paul V Moore High School Stadium 44 School Dr Central Square, NY 13036",
       "dci_url": "https://www.dci.org/events/2026-dci-syracuse/",
+      "scored": true,
       "lineup": [
         {
+          "corps": "Baldwinsville Marching Band",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Brig Juice Brass",
+          "time": "7:20 PM",
+          "competitive": false
+        },
+        {
           "corps": "Les Stentors",
-          "time": "7:32 PM"
+          "time": "7:32 PM",
+          "competitive": true
         },
         {
           "corps": "Raiders",
-          "time": "7:49 PM"
+          "time": "7:49 PM",
+          "competitive": true
         },
         {
           "corps": "7th Regiment",
-          "time": "8:06 PM"
+          "time": "8:06 PM",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": "8:23 PM"
+          "time": "8:23 PM",
+          "competitive": true
         },
         {
           "corps": "White Sabers",
-          "time": "8:40 PM"
+          "time": "8:40 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - White Sabers",
+          "time": "8:57 PM",
+          "competitive": false
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-drums-on-parade",
-      "event_name": "Drums on Parade",
+      "event_name": "The Cavaliers",
       "date": "Friday, July 24, 2026 7:00 PM",
       "date_iso": "2026-07-24",
       "location": "Madison, WI",
@@ -2053,78 +2715,117 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Green Beret Marching Band",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
           "corps": "Govenaires",
-          "time": "7:22 PM"
+          "time": "7:22 PM",
+          "competitive": true
         },
         {
           "corps": "Colt Cadets",
-          "time": "7:39 PM"
+          "time": "7:39 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Madison Scouts",
+          "time": "10:12 PM",
+          "competitive": false
         },
         {
           "corps": "Genesis",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-bushwackers-invitational",
-      "event_name": "Bushwackers Invitational",
+      "event_name": "Scores Announced",
       "date": "Saturday, July 25, 2026 7:00 PM",
       "date_iso": "2026-07-25",
       "location": "Mt. Olive, NJ",
       "venue": "Mount Olive High School Stadium 18 Corey Rd Flanders, NJ 07836",
       "dci_url": "https://www.dci.org/events/2026-bushwackers-invitational/",
+      "scored": true,
       "lineup": [
         {
+          "corps": "Spark",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Legacy Drum & Bugle Corps",
+          "time": "7:20 PM",
+          "competitive": false
+        },
+        {
           "corps": "Sunrisers",
-          "time": "7:32 PM"
+          "time": "7:32 PM",
+          "competitive": true
         },
         {
           "corps": "Hurricanes",
-          "time": "7:49 PM"
+          "time": "7:49 PM",
+          "competitive": true
         },
         {
           "corps": "Reading Buccaneers",
-          "time": "8:31 PM"
+          "time": "8:31 PM",
+          "competitive": true
         },
         {
           "corps": "Hawthorne Caballeros",
-          "time": "8:48 PM"
+          "time": "8:48 PM",
+          "competitive": true
         },
         {
           "corps": "Bushwackers",
-          "time": "9:05 PM"
+          "time": "9:05 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Hawthorne Caballeros Alumni",
+          "time": "9:22 PM",
+          "competitive": false
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-southeastern-championship",
-      "event_name": "DCI Southeastern Championship",
+      "event_name": "Troopers",
       "date": "Saturday, July 25, 2026 5:00 PM",
       "date_iso": "2026-07-25",
       "location": "Atlanta, GA",
@@ -2134,73 +2835,89 @@
       "lineup": [
         {
           "corps": "Fusion Core",
-          "time": "5:10 PM"
+          "time": "5:10 PM",
+          "competitive": true
         },
         {
           "corps": "Atlanta CV",
-          "time": "5:27 PM"
+          "time": "5:27 PM",
+          "competitive": true
         },
         {
           "corps": "Memphis Blues",
-          "time": "5:44 PM"
+          "time": "5:44 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-midwestern-championship",
-      "event_name": "Midwestern Championship",
+      "event_name": "The Cavaliers",
       "date": "Saturday, July 25, 2026 6:30 PM",
       "date_iso": "2026-07-25",
       "location": "DeKalb, IL",
@@ -2209,90 +2926,184 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "The ConneXion",
+          "time": "6:40 PM",
+          "competitive": false
+        },
+        {
           "corps": "Northern Lights",
-          "time": "6:52 PM"
+          "time": "6:52 PM",
+          "competitive": true
         },
         {
           "corps": "Govenaires",
-          "time": "7:09 PM"
+          "time": "7:09 PM",
+          "competitive": true
         },
         {
           "corps": "Colt Cadets",
-          "time": "7:26 PM"
+          "time": "7:26 PM",
+          "competitive": true
         },
         {
           "corps": "Columbians",
-          "time": "7:43 PM"
+          "time": "7:43 PM",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": "8:00 PM"
+          "time": "8:00 PM",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
+        }
+      ]
+    },
+    {
+      "slug": "2026-music-on-the-mountain",
+      "event_name": "Scores Announced",
+      "date": "Saturday, July 25, 2026 7:00 PM",
+      "date_iso": "2026-07-25",
+      "location": "Sheffield, PA",
+      "venue": "War Memorial Field 306 Lexington Ave Warren, PA 16365",
+      "dci_url": "https://www.dci.org/events/2026-music-on-the-mountain/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "Allegheny Eclipse",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Steel City Ambassadors",
+          "time": "7:20 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Apogee",
+          "time": "7:30 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Rogues Hollow Regiment",
+          "time": "7:42 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Cincinnati Tradition",
+          "time": "7:59 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Les Stentors",
+          "time": "8:33 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Raiders",
+          "time": "8:50 PM",
+          "competitive": true
+        },
+        {
+          "corps": "7th Regiment",
+          "time": "9:07 PM",
+          "competitive": true
+        },
+        {
+          "corps": "The Battalion",
+          "time": "9:24 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Gold",
+          "time": "9:41 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - The Battalion",
+          "time": "9:58 PM",
+          "competitive": false
         }
       ]
     },
     {
       "slug": "2026-dci-in-motion",
-      "event_name": "DCI in Motion",
+      "event_name": "Scores Announced",
       "date": "Sunday, July 26, 2026 7:00 PM",
       "date_iso": "2026-07-26",
       "location": "Norton, OH",
       "venue": "Norton High School Stadium 1 Panther Way Norton, OH 44203",
       "dci_url": "https://www.dci.org/events/2026-dci-in-motion/",
+      "scored": true,
       "lineup": [
         {
+          "corps": "Legacy Drum & Bugle Corps",
+          "time": "7:10 PM",
+          "competitive": false
+        },
+        {
           "corps": "Les Stentors",
-          "time": "7:22 PM"
+          "time": "7:22 PM",
+          "competitive": true
         },
         {
           "corps": "7th Regiment",
-          "time": "7:39 PM"
+          "time": "7:39 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "7:56 PM"
+          "time": "7:56 PM",
+          "competitive": true
         },
         {
           "corps": "Cincinnati Tradition",
-          "time": "8:13 PM"
+          "time": "8:13 PM",
+          "competitive": true
         },
         {
           "corps": "Rogues Hollow Regiment",
-          "time": "8:30 PM"
+          "time": "8:30 PM",
+          "competitive": true
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-nightbeat",
-      "event_name": "NightBEAT",
+      "event_name": "Troopers",
       "date": "Sunday, July 26, 2026 5:00 PM",
       "date_iso": "2026-07-26",
       "location": "Winston-Salem, NC",
@@ -2301,66 +3112,90 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "North Carolina A&T Cold Steel Drumline",
+          "time": "5:05 PM",
+          "competitive": false
+        },
+        {
           "corps": "Atlanta CV",
-          "time": "5:35 PM"
+          "time": "5:35 PM",
+          "competitive": true
         },
         {
           "corps": "Heat Wave",
-          "time": "5:53 PM"
+          "time": "5:53 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - TBD",
+          "time": "10:21 PM",
+          "competitive": false
         },
         {
           "corps": "Blue Devils",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-summer-music-games-in-cincinnati",
-      "event_name": "Summer Music Games in Cincinnati",
+      "event_name": "The Cavaliers",
       "date": "Monday, July 27, 2026 7:00 PM",
       "date_iso": "2026-07-27",
       "location": "Mason, OH",
@@ -2370,45 +3205,59 @@
       "lineup": [
         {
           "corps": "Columbus Saints",
-          "time": "7:15 PM"
+          "time": "7:15 PM",
+          "competitive": true
         },
         {
           "corps": "Cincinnati Tradition",
-          "time": "7:32 PM"
+          "time": "7:32 PM",
+          "competitive": true
         },
         {
           "corps": "Colt Cadets",
-          "time": "7:49 PM"
+          "time": "7:49 PM",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": "8:06 PM"
+          "time": "8:06 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - TBD",
+          "time": "10:08 PM",
+          "competitive": false
         },
         {
           "corps": "Madison Scouts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-brass-at-the-beach",
-      "event_name": "Brass at the Beach",
+      "event_name": "The Academy",
       "date": "Tuesday, July 28, 2026 7:00 PM",
       "date_iso": "2026-07-28",
       "location": "Myrtle Beach, SC",
@@ -2417,28 +3266,39 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Encore - Carolina Crown",
+          "time": "9:09 PM",
+          "competitive": false
+        },
+        {
           "corps": "Blue Stars",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
@@ -2488,7 +3348,7 @@
     },
     {
       "slug": "2026-dci-huntington",
-      "event_name": "DCI Huntington",
+      "event_name": "The Cavaliers",
       "date": "Wednesday, July 29, 2026 7:30 PM",
       "date_iso": "2026-07-29",
       "location": "Huntington, WV",
@@ -2498,39 +3358,48 @@
       "lineup": [
         {
           "corps": "Memphis Blues",
-          "time": "7:40 PM"
+          "time": "7:40 PM",
+          "competitive": true
         },
         {
           "corps": "7th Regiment",
-          "time": "7:57 PM"
+          "time": "7:57 PM",
+          "competitive": true
         },
         {
           "corps": "Columbians",
-          "time": "8:14 PM"
+          "time": "8:14 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "8:31 PM"
+          "time": "8:31 PM",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": "8:48 PM"
+          "time": "8:48 PM",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
@@ -2580,7 +3449,7 @@
     },
     {
       "slug": "2026-the-marion-open",
-      "event_name": "The Marion Open",
+      "event_name": "Scores Announced",
       "date": "Thursday, July 30, 2026 7:00 PM",
       "date_iso": "2026-07-30",
       "location": "Marion, OH",
@@ -2590,161 +3459,250 @@
       "lineup": [
         {
           "corps": "Cincinnati Tradition",
-          "time": "7:10 PM"
+          "time": "7:10 PM",
+          "competitive": true
         },
         {
           "corps": "Memphis Blues",
-          "time": "7:27 PM"
+          "time": "7:27 PM",
+          "competitive": true
         },
         {
           "corps": "Heat Wave",
-          "time": "7:44 PM"
+          "time": "7:44 PM",
+          "competitive": true
         },
         {
           "corps": "Raiders",
-          "time": "8:01 PM"
+          "time": "8:01 PM",
+          "competitive": true
         },
         {
           "corps": "Colt Cadets",
-          "time": "8:18 PM"
+          "time": "8:18 PM",
+          "competitive": true
         },
         {
           "corps": "Les Stentors",
-          "time": "8:52 PM"
+          "time": "8:52 PM",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": "9:09 PM"
+          "time": "9:09 PM",
+          "competitive": true
         },
         {
           "corps": "7th Regiment",
-          "time": "9:26 PM"
+          "time": "9:26 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "9:43 PM"
+          "time": "9:43 PM",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": "10:00 PM"
+          "time": "10:00 PM",
+          "competitive": true
+        }
+      ]
+    },
+    {
+      "slug": "2026-dci-east-coast-showcase",
+      "event_name": "Spartans",
+      "date": "Thursday, July 30, 2026 7:30 PM",
+      "date_iso": "2026-07-30",
+      "location": "Lawrence, MA",
+      "venue": "Veterans Memorial Stadium 240 Osgood St. Lawrence, MA 01843",
+      "dci_url": "https://www.dci.org/events/2026-dci-east-coast-showcase/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "Crusaders Senior",
+          "time": "7:40 PM",
+          "competitive": false
+        },
+        {
+          "corps": "North Star",
+          "time": "7:57 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Encore - Boston Crusaders",
+          "time": "9:39 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Bluecoats",
+          "time": "TBD",
+          "competitive": true
+        },
+        {
+          "corps": "Boston Crusaders",
+          "time": "TBD",
+          "competitive": true
+        },
+        {
+          "corps": "Pacific Crest",
+          "time": "TBD",
+          "competitive": true
+        },
+        {
+          "corps": "Phantom Regiment",
+          "time": "TBD",
+          "competitive": true
+        },
+        {
+          "corps": "Spartans",
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-dci-eastern-classic-2",
-      "event_name": "DCI Eastern Classic",
+      "event_name": "Troopers",
       "date": "Friday, July 31, 2026 7:00 PM",
       "date_iso": "2026-07-31",
       "location": "Allentown, PA",
       "venue": "J. Birney Crum Stadium 2027 Linden St Allentown, PA 18105",
       "dci_url": "https://www.dci.org/events/2026-dci-eastern-classic-2/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Bushwackers",
-          "time": "7:10 PM"
+          "time": "7:10 PM",
+          "competitive": true
         },
         {
           "corps": "Reading Buccaneers",
-          "time": "7:27 PM"
+          "time": "7:27 PM",
+          "competitive": true
         },
         {
           "corps": "Hawthorne Caballeros",
-          "time": "7:44 PM"
+          "time": "7:44 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-michigan",
-      "event_name": "DCI Michigan",
+      "event_name": "Scores Announced",
       "date": "Friday, July 31, 2026 7:30 PM",
       "date_iso": "2026-07-31",
       "location": "Allendale, MI",
       "venue": "Lubbers Stadium at Grand Valley State University 4415 Stadium Dr Allendale, MI 49401",
       "dci_url": "https://www.dci.org/events/2026-dci-michigan/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Northern Lights",
-          "time": "7:40 PM"
+          "time": "7:40 PM",
+          "competitive": true
         },
         {
           "corps": "Memphis Blues",
-          "time": "7:57 PM"
+          "time": "7:57 PM",
+          "competitive": true
         },
         {
           "corps": "Heat Wave",
-          "time": "8:14 PM"
+          "time": "8:14 PM",
+          "competitive": true
         },
         {
           "corps": "Les Stentors",
-          "time": "8:31 PM"
+          "time": "8:31 PM",
+          "competitive": true
         },
         {
           "corps": "Colt Cadets",
-          "time": "8:48 PM"
+          "time": "8:48 PM",
+          "competitive": true
         },
         {
           "corps": "Raiders",
-          "time": "9:05 PM"
+          "time": "9:05 PM",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": "9:22 PM"
+          "time": "9:22 PM",
+          "competitive": true
         },
         {
           "corps": "7th Regiment",
-          "time": "9:39 PM"
+          "time": "9:39 PM",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": "9:56 PM"
+          "time": "9:56 PM",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": "10:13 PM"
+          "time": "10:13 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Northern Lights",
+          "time": "10:30 PM",
+          "competitive": false
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-eastern-classic",
-      "event_name": "DCI Eastern Classic",
+      "event_name": "The Cavaliers",
       "date": "Saturday, August 1, 2026 7:00 PM",
       "date_iso": "2026-08-01",
       "location": "Allentown, PA",
@@ -2754,47 +3712,58 @@
       "lineup": [
         {
           "corps": "Boston Crusaders",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
@@ -2840,43 +3809,69 @@
     },
     {
       "slug": "2026-big-sounds-in-motion",
-      "event_name": "Big Sounds in Motion",
+      "event_name": "Pacific Crest",
       "date": "Sunday, August 2, 2026 5:45 PM",
       "date_iso": "2026-08-02",
       "location": "Downingtown, PA",
       "venue": "Walter E. Kottmeyer Stadium at Downingtown West High School 445 Manor Ave Downingtown, PA 19335",
       "dci_url": "https://www.dci.org/events/2026-big-sounds-in-motion/",
+      "scored": true,
       "lineup": [
         {
+          "corps": "Buccaneer Banner Brass",
+          "time": "5:55 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Buccaneers Alumni",
+          "time": "6:07 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Sonus Brass Theater",
+          "time": "6:24 PM",
+          "competitive": false
+        },
+        {
           "corps": "Hawthorne Caballeros",
-          "time": "6:36 PM"
+          "time": "6:36 PM",
+          "competitive": true
         },
         {
           "corps": "Reading Buccaneers",
-          "time": "6:53 PM"
+          "time": "6:53 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Reading Buccaneers",
+          "time": "8:35 PM",
+          "competitive": false
         },
         {
           "corps": "Boston Crusaders",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
-      ],
-      "scored": true
+      ]
     },
     {
       "slug": "2026-dci-kentucky",
-      "event_name": "DCI Kentucky",
+      "event_name": "Troopers",
       "date": "Monday, August 3, 2026 7:30 PM",
       "date_iso": "2026-08-03",
       "location": "Lexington, KY",
@@ -2886,43 +3881,53 @@
       "lineup": [
         {
           "corps": "Hurricanes",
-          "time": "7:40 PM"
+          "time": "7:40 PM",
+          "competitive": true
         },
         {
           "corps": "Atlanta CV",
-          "time": "7:57 PM"
+          "time": "7:57 PM",
+          "competitive": true
         },
         {
           "corps": "Bushwackers",
-          "time": "8:14 PM"
+          "time": "8:14 PM",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
@@ -2988,7 +3993,7 @@
     },
     {
       "slug": "2026-innovations-in-brass",
-      "event_name": "Innovations In Brass",
+      "event_name": "The Academy",
       "date": "Monday, August 3, 2026 6:00 PM",
       "date_iso": "2026-08-03",
       "location": "Akron, OH",
@@ -2997,62 +4002,95 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "The Blue Way Middle School Honor Band",
+          "time": "6:10 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Rhythm IN BLUE",
+          "time": "6:20 PM",
+          "competitive": false
+        },
+        {
+          "corps": "EN-CORPS by EN-RICH-MENT",
+          "time": "6:30 PM",
+          "competitive": false
+        },
+        {
           "corps": "Bluecoats",
-          "time": "10:23 PM"
+          "time": "10:23 PM",
+          "competitive": true
+        },
+        {
+          "corps": "Encore - Bluecoats",
+          "time": "10:40 PM",
+          "competitive": false
         },
         {
           "corps": "Blue Devils",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Music City",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": "TBD"
+          "time": "TBD",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-dci-world-championship-prelims",
-      "event_name": "DCI World Championship Prelims",
+      "event_name": "Troopers",
       "date": "Thursday, August 6, 2026 12:00 PM",
       "date_iso": "2026-08-06",
       "location": "Indianapolis, IN",
@@ -3062,137 +4100,174 @@
       "lineup": [
         {
           "corps": "7th Regiment",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Blue Devils",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Blue Devils B",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Blue Knights",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Blue Stars",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Bluecoats",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Boston Crusaders",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Carolina Crown",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Colt Cadets",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Colts",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Columbians",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Crossmen",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Eclipse",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Genesis",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Gold",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Heat Wave",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Les Stentors",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Madison Scouts",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Memphis Blues",
-          "time": ""
+          "time": "",
+          "competitive": true
+        },
+        {
+          "corps": "Mercedes Marching Band",
+          "time": "",
+          "competitive": false
         },
         {
           "corps": "Music City",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Pacific Crest",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Phantom Regiment",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Raiders",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "River City Rhythm",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Santa Clara Vanguard",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Seattle Cascades",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Spartans",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Spirit of Atlanta",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "The Academy",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "The Battalion",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "The Cavaliers",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Troopers",
-          "time": ""
+          "time": "",
+          "competitive": true
         }
       ]
     },
     {
       "slug": "2026-dci-all-age-world-championship-prelims",
-      "event_name": "DCI All-Age World Championship Prelims",
+      "event_name": "White Sabers",
       "date": "Friday, August 7, 2026 8:20 AM",
       "date_iso": "2026-08-07",
       "location": "Indianapolis, IN",
@@ -3201,60 +4276,165 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Loge and Terrace Levels Open",
+          "time": "12:00 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Reserved Seating Takes Effect",
+          "time": "1:00 PM",
+          "competitive": false
+        },
+        {
+          "corps": "DCI World Championships Semifinals Begins",
+          "time": "1:30 PM",
+          "competitive": false
+        },
+        {
           "corps": "Atlanta CV",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Bushwackers",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Cincinnati Tradition",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Columbus Saints",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Fusion Core",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Govenaires",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Hawthorne Caballeros",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Hurricanes",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "MBI",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Northern Lights",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Reading Buccaneers",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Rogues Hollow Regiment",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "Sunrisers",
-          "time": ""
+          "time": "",
+          "competitive": true
         },
         {
           "corps": "White Sabers",
-          "time": ""
+          "time": "",
+          "competitive": true
+        }
+      ]
+    },
+    {
+      "slug": "2026-dci-world-championship-semifinals",
+      "event_name": "Phantom Regiment Alumni Corps",
+      "date": "Friday, August 7, 2026 1:30 PM",
+      "date_iso": "2026-08-07",
+      "location": "Indianapolis, IN",
+      "venue": "Lucas Oil Stadium 500 S. Capitol Avenue Indianapolis, IN 46225",
+      "dci_url": "https://www.dci.org/events/2026-dci-world-championship-semifinals/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "All-Age World Championships Prelims",
+          "time": "8:30 AM",
+          "competitive": false
+        },
+        {
+          "corps": "DCI World Championships Semifinals Begins",
+          "time": "1:30 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Encore - Open Class World Champion",
+          "time": "9:22 PM",
+          "competitive": false
+        },
+        {
+          "corps": "Phantom Regiment Alumni Corps",
+          "time": "10:11 PM",
+          "competitive": false
+        }
+      ]
+    },
+    {
+      "slug": "2026-dci-all-age-world-championship-finals",
+      "event_name": "Awards Ceremony",
+      "date": "Saturday, August 8, 2026 9:50 AM",
+      "date_iso": "2026-08-08",
+      "location": "Indianapolis, IN",
+      "venue": "Lucas Oil Stadium 500 S. Capitol Avenue Indianapolis, IN 46225",
+      "dci_url": "https://www.dci.org/events/2026-dci-all-age-world-championship-finals/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "All-Age Class Finals Begins",
+          "time": "10:00 AM",
+          "competitive": false
+        }
+      ]
+    },
+    {
+      "slug": "2026-dci-world-championship-finals",
+      "event_name": "Awards Ceremony",
+      "date": "Saturday, August 8, 2026 5:30 PM",
+      "date_iso": "2026-08-08",
+      "location": "Indianapolis, IN",
+      "venue": "Lucas Oil Stadium 500 S. Capitol Avenue Indianapolis, IN 46225",
+      "dci_url": "https://www.dci.org/events/2026-dci-world-championship-finals/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "INpact & BANDtastic Band",
+          "time": "5:40 PM",
+          "competitive": false
+        },
+        {
+          "corps": "U.S. Marine Drum & Bugle Corps",
+          "time": "6:00 PM",
+          "competitive": false
+        },
+        {
+          "corps": "World Championship Finals Begins",
+          "time": "6:30 PM",
+          "competitive": false
         }
       ]
     }
