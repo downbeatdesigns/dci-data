@@ -1,5 +1,5 @@
 {
-  "scraped_date": "2026-06-26",
+  "scraped_date": "2026-06-27",
   "season": 2026,
   "events": [
     {
@@ -10,6 +10,7 @@
       "location": "Moscow, ID",
       "venue": "Kibbie Dome 875 Perimeter Dr Moscow,, ID 83844",
       "dci_url": "https://www.dci.org/events/2026-santa-clara-vanguard-showcase/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Columbians",
@@ -26,6 +27,30 @@
       ]
     },
     {
+      "slug": "2026-dci-tour-preview",
+      "event_name": "DCI Tour Preview",
+      "date": "Friday, June 26, 2026 8:00 PM",
+      "date_iso": "2026-06-26",
+      "location": "Muncie, IN",
+      "venue": "Scheumann Stadium 3300 Tillotson Avenue Muncie, IN 47306",
+      "dci_url": "https://www.dci.org/events/2026-dci-tour-preview/",
+      "scored": false,
+      "lineup": [
+        {
+          "corps": "Cincinnati Tradition",
+          "time": "8:15 PM"
+        },
+        {
+          "corps": "The Cavaliers",
+          "time": "8:45 PM"
+        },
+        {
+          "corps": "Carolina Crown",
+          "time": "9:15 PM"
+        }
+      ]
+    },
+    {
       "slug": "2026-barnum-festival-champions-on-parade",
       "event_name": "Barnum Festival: Champions on Parade",
       "date": "Saturday, June 27, 2026 6:00 PM",
@@ -33,6 +58,7 @@
       "location": "Shelton, CT",
       "venue": "Shelton High School 120 Meadow Street Shelton, CT 06484",
       "dci_url": "https://www.dci.org/events/2026-barnum-festival-champions-on-parade/",
+      "scored": true,
       "lineup": [
         {
           "corps": "7th Regiment",
@@ -64,6 +90,7 @@
       "location": "Fort Collins, CO",
       "venue": "Canvas Stadium 751 W Pitkin St Fort Collins, CO 80521",
       "dci_url": "https://www.dci.org/events/2026-drums-along-the-rockies/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Genesis",
@@ -88,6 +115,34 @@
       ]
     },
     {
+      "slug": "2026-bluecoats-opening-night-community-celebration",
+      "event_name": "Bluecoats Opening Night Community Celebration",
+      "date": "Saturday, June 27, 2026 6:00 PM",
+      "date_iso": "2026-06-27",
+      "location": "Alliance, OH",
+      "venue": "Kehres Stadium 540 Lilly Rd Alliance, OH 44601",
+      "dci_url": "https://www.dci.org/events/2026-bluecoats-opening-night-community-celebration/",
+      "scored": false,
+      "lineup": [
+        {
+          "corps": "Columbus Saints",
+          "time": "6:15 PM"
+        },
+        {
+          "corps": "Rogues Hollow Regiment",
+          "time": "6:25 PM"
+        },
+        {
+          "corps": "Cincinnati Tradition",
+          "time": "6:40 PM"
+        },
+        {
+          "corps": "Eclipse",
+          "time": "6:55 PM"
+        }
+      ]
+    },
+    {
       "slug": "2026-corps-encore",
       "event_name": "Corps Encore",
       "date": "Sunday, June 28, 2026 7:30 PM",
@@ -95,6 +150,7 @@
       "location": "Ogden, UT",
       "venue": "Stewart Stadium at Weber State University 4100 S. Taylor Ave. Ogden, UT 84403",
       "dci_url": "https://www.dci.org/events/2026-corps-encore/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Genesis",
@@ -122,6 +178,7 @@
       "location": "Kennewick, WA",
       "venue": "Neil F. Lampson Stadium 505 S Garfield St Kennewick, WA 99336",
       "dci_url": "https://www.dci.org/events/2026-drums-along-the-columbia/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Gems",
@@ -157,6 +214,7 @@
       "location": "Seattle, WA",
       "venue": "Pop Keeney Stadium 9809 NE 188th St Bothell, WA 98011",
       "dci_url": "https://www.dci.org/events/2026-northwest-youth-music-games-seattle/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Gems",
@@ -192,6 +250,7 @@
       "location": "Omaha, NE",
       "venue": "Burke Stadium 12200 Burke St Omaha, NE 68154",
       "dci_url": "https://www.dci.org/events/2026-drums-across-nebraska/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Colt Cadets",
@@ -227,6 +286,7 @@
       "location": "Portland, OR",
       "venue": "McKenzie Stadium at Evergreen High School 2211 NE 138th Ave. Vancouver, WA 98684",
       "dci_url": "https://www.dci.org/events/2026-northwest-youth-music-games-portland/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Gems",
@@ -262,6 +322,7 @@
       "location": "Nashua, NH",
       "venue": "Stellos Stadium Route 111-West Hollis St. Nashua, NH 03062",
       "dci_url": "https://www.dci.org/events/2026-preview-of-champions/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Les Stentors",
@@ -289,6 +350,7 @@
       "location": "Cedarburg, WI",
       "venue": "Cedarburg High School Stadium W68 N611 Evergreen Blvd. Cedarburg, WI 53012",
       "dci_url": "https://www.dci.org/events/2026-rotary-music-festival/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Eclipse",
@@ -309,6 +371,38 @@
       ]
     },
     {
+      "slug": "2026-midcal-showcase",
+      "event_name": "MidCal Showcase",
+      "date": "Thursday, July 2, 2026 7:50 PM",
+      "date_iso": "2026-07-02",
+      "location": "Camarillo, CA",
+      "venue": "Adolfo Camarillo High School Stadium 4660 Mission Oaks Blvd Camarillo, CA 93012",
+      "dci_url": "https://www.dci.org/events/2026-midcal-showcase/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "Golden Empire",
+          "time": "8:00 PM"
+        },
+        {
+          "corps": "The Academy",
+          "time": "8:25 PM"
+        },
+        {
+          "corps": "Pacific Crest",
+          "time": "8:50 PM"
+        },
+        {
+          "corps": "Bluecoats",
+          "time": "9:15 PM"
+        },
+        {
+          "corps": "Blue Devils",
+          "time": "9:40 PM"
+        }
+      ]
+    },
+    {
       "slug": "2026-dci-capital-classic",
       "event_name": "DCI Capital Classic",
       "date": "Friday, July 3, 2026 6:30 PM",
@@ -316,6 +410,7 @@
       "location": "Sacramento, CA",
       "venue": "Oak Ridge High School 1120 Harvard Wy El Dorado Hills, CA 95762",
       "dci_url": "https://www.dci.org/events/2026-dci-capital-classic/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Golden Empire",
@@ -355,6 +450,7 @@
       "location": "Rockford, IL",
       "venue": "Swanson Stadium at Guilford High School 5620 Spring Creek Rd Rockford, IL 61114",
       "dci_url": "https://www.dci.org/events/2026-show-of-shows/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Colt Cadets",
@@ -402,6 +498,7 @@
       "location": "Stanford, CA",
       "venue": "Stanford Stadium 625 Nelson Road Stanford, CA 94305",
       "dci_url": "https://www.dci.org/events/2026-dci-west/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Golden Empire",
@@ -453,6 +550,7 @@
       "location": "La Crosse, WI",
       "venue": "Veterans Memorial Field Sports Complex 400 East Ave. N. LaCrosse, WI 54601",
       "dci_url": "https://www.dci.org/events/2026-river-city-rhapsody/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Govenaires",
@@ -496,6 +594,7 @@
       "location": "Sevierville, TN",
       "venue": "Lon C Burchfield Stadium at Sevier County HS 1200 E. Dolly Parton Pkwy. Sevierville, TN 37862",
       "dci_url": "https://www.dci.org/events/2026-drums-across-the-smokies/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Music City",
@@ -523,6 +622,7 @@
       "location": "Mankato, MN",
       "venue": "Blakeslee Stadium 170 Stadium Road Mankato, MN 56001",
       "dci_url": "https://www.dci.org/events/2026-the-kiwanis-thunder-of-drums/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Govenaires",
@@ -566,6 +666,7 @@
       "location": "Des Moines, IA",
       "venue": "Valley Stadium 4440 Mills Civic Parkway West Des Moines, IA 50266",
       "dci_url": "https://www.dci.org/events/2026-celebration-in-brass/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Colt Cadets",
@@ -630,7 +731,8 @@
           "corps": "Boston Crusaders",
           "time": "8:42 PM"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-northern-alabama",
@@ -640,6 +742,7 @@
       "location": "Muscle Shoals, AL",
       "venue": "James F. Moore Stadium 1900 Avalon Ave Muscle Shoals, AL 35661",
       "dci_url": "https://www.dci.org/events/2026-dci-northern-alabama/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Atlanta CV",
@@ -671,6 +774,7 @@
       "location": "Santa Clarita, CA",
       "venue": "Cougar Stadium at College of the Canyons 26455 Rockwell Canyon Rd Santa Clarita, CA 91355",
       "dci_url": "https://www.dci.org/events/2026-gold-showcase/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Blue Devils C",
@@ -747,7 +851,8 @@
           "corps": "The Cavaliers",
           "time": "9:54 PM"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-music-on-the-march",
@@ -757,6 +862,7 @@
       "location": "Dubuque, IA",
       "venue": "Dalzell Field 1800 Clarke Drive Dubuque, IA 52001",
       "dci_url": "https://www.dci.org/events/2026-music-on-the-march/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Colt Cadets",
@@ -796,6 +902,7 @@
       "location": "Walnut, CA",
       "venue": "Hilmer Lodge Stadium at Mt. San Antonio College 1110 N Grand Ave Walnut, CA 91789",
       "dci_url": "https://www.dci.org/events/2026-western-corps-connection/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Blue Devils B",
@@ -851,6 +958,7 @@
       "location": "Little Rock, AR",
       "venue": "War Memorial Stadium #1 Stadium Drive Little Rock, AR 72225",
       "dci_url": "https://www.dci.org/events/2026-dci-little-rock/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Memphis Blues",
@@ -886,6 +994,7 @@
       "location": "Pasadena, CA",
       "venue": "Rose Bowl Stadium 1001 Rose Bowl Drive Pasadena, CA 91103",
       "dci_url": "https://www.dci.org/events/2026-drum-corps-at-the-rose-bowl/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Blue Devils C",
@@ -941,6 +1050,7 @@
       "location": "Clifton, NJ",
       "venue": "Clifton School Stadium 350 Piaget Ave Clifton, NJ 07001",
       "dci_url": "https://www.dci.org/events/2026-drum-corps-grand-prix/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Raiders",
@@ -988,6 +1098,7 @@
       "location": "Whitewater, WI",
       "venue": "Perkins Stadium 907 W. Schwager Dr. Whitewater, WI 53190",
       "dci_url": "https://www.dci.org/events/2026-the-whitewater-classic/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Eclipse",
@@ -1064,7 +1175,8 @@
           "corps": "Impulse",
           "time": "TBD"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-brass-impact",
@@ -1074,6 +1186,7 @@
       "location": "Olathe, KS",
       "venue": "College Boulevard Activity Center 11031 S. Valley Pkwy. Olathe, KS 66061",
       "dci_url": "https://www.dci.org/events/2026-brass-impact/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Colt Cadets",
@@ -1117,6 +1230,7 @@
       "location": "Mesa, AZ",
       "venue": "John D. Riggs Stadium at Mesa Community College 1833 West Southern Ave. Mesa, AZ 85202",
       "dci_url": "https://www.dci.org/events/2026-drums-across-the-desert/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Seattle Cascades",
@@ -1144,6 +1258,7 @@
       "location": "Broken Arrow, OK",
       "venue": "Broken Arrow Memorial Stadium 1901 E. Albany Broken Arrow, OK 74012",
       "dci_url": "https://www.dci.org/events/2026-dci-broken-arrow/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Zephyrus",
@@ -1187,6 +1302,7 @@
       "location": "Hutchinson, KS",
       "venue": "Gowans Stadium 1300 N Plum St Hutchinson, KS 67501",
       "dci_url": "https://www.dci.org/events/2026-dci-hutchinson/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Spartans",
@@ -1243,7 +1359,8 @@
           "corps": "Bluecoats",
           "time": "9:38 PM"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-central-texas",
@@ -1286,7 +1403,8 @@
           "corps": "Blue Knights",
           "time": "10:41 PM"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-denton",
@@ -1296,6 +1414,7 @@
       "location": "Denton, TX",
       "venue": "DATCU Stadium 1251 S Bonnie Brae St Denton, TX 76207",
       "dci_url": "https://www.dci.org/events/2026-dci-denton/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Guardians",
@@ -1343,6 +1462,7 @@
       "location": "Houston, TX",
       "venue": "Legacy Stadium 5175 Franz Road Katy, TX 77493",
       "dci_url": "https://www.dci.org/events/2026-dci-houston/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Spartans",
@@ -1394,6 +1514,7 @@
       "location": "New London, CT",
       "venue": "New London High School 20 Chester St. New London, CT 06320",
       "dci_url": "https://www.dci.org/events/2026-sounds-by-the-seaport/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Les Stentors",
@@ -1417,6 +1538,7 @@
       "location": "San Antonio, TX",
       "venue": "Alamodome 100 Montana St. San Antonio, TX 78203",
       "dci_url": "https://www.dci.org/events/2026-dci-southwestern-championship/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Guardians",
@@ -1549,7 +1671,8 @@
           "corps": "Reading Buccaneers",
           "time": "8:51 PM"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-dallas",
@@ -1559,6 +1682,7 @@
       "location": "Bedford, TX",
       "venue": "Pennington Field at HEB ISD 1501 Central Dr Bedford, TX 76022",
       "dci_url": "https://www.dci.org/events/2026-dci-dallas/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Arsenal",
@@ -1607,6 +1731,26 @@
       ]
     },
     {
+      "slug": "2026-raiders-tour-send-off",
+      "event_name": "Raiders Tour Send-Off",
+      "date": "Sunday, July 19, 2026 7:00 PM",
+      "date_iso": "2026-07-19",
+      "location": "Aston Township, PA",
+      "venue": "Neumann University Turf Field 501 Convent Rd Aston Township, PA 19014",
+      "dci_url": "https://www.dci.org/events/2026-raiders-tour-send-off/",
+      "scored": false,
+      "lineup": [
+        {
+          "corps": "Les Stentors",
+          "time": "7:15 PM"
+        },
+        {
+          "corps": "Raiders",
+          "time": "8:00 PM"
+        }
+      ]
+    },
+    {
       "slug": "2026-dci-mckinney",
       "event_name": "DCI McKinney",
       "date": "Monday, July 20, 2026 8:00 PM",
@@ -1647,7 +1791,8 @@
           "corps": "Troopers",
           "time": "TBD"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-st-louis",
@@ -1686,7 +1831,8 @@
           "corps": "The Cavaliers",
           "time": "TBD"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-southern-mississippi",
@@ -1725,7 +1871,8 @@
           "corps": "Troopers",
           "time": "TBD"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-drums-on-the-ohio",
@@ -1768,7 +1915,8 @@
           "corps": "Seattle Cascades",
           "time": "TBD"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-birmingham",
@@ -1819,7 +1967,8 @@
           "corps": "Troopers",
           "time": "TBD"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-middle-tennessee",
@@ -1829,6 +1978,7 @@
       "location": "Murfreesboro, TN",
       "venue": "Johnny \"Red\" Floyd Stadium 1500 Greenland Dr Murfreesboro, TN 37130",
       "dci_url": "https://www.dci.org/events/2026-dci-middle-tennessee/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Blue Devils",
@@ -1889,6 +2039,55 @@
           "corps": "White Sabers",
           "time": "8:40 PM"
         }
+      ],
+      "scored": true
+    },
+    {
+      "slug": "2026-drums-on-parade",
+      "event_name": "Drums on Parade",
+      "date": "Friday, July 24, 2026 7:00 PM",
+      "date_iso": "2026-07-24",
+      "location": "Madison, WI",
+      "venue": "Mansfield Stadium 201 S Gammon Rd. Madison, WI 53717",
+      "dci_url": "https://www.dci.org/events/2026-drums-on-parade/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "Govenaires",
+          "time": "7:22 PM"
+        },
+        {
+          "corps": "Colt Cadets",
+          "time": "7:39 PM"
+        },
+        {
+          "corps": "Genesis",
+          "time": "TBD"
+        },
+        {
+          "corps": "Madison Scouts",
+          "time": "TBD"
+        },
+        {
+          "corps": "Pacific Crest",
+          "time": "TBD"
+        },
+        {
+          "corps": "Phantom Regiment",
+          "time": "TBD"
+        },
+        {
+          "corps": "Santa Clara Vanguard",
+          "time": "TBD"
+        },
+        {
+          "corps": "Seattle Cascades",
+          "time": "TBD"
+        },
+        {
+          "corps": "The Cavaliers",
+          "time": "TBD"
+        }
       ]
     },
     {
@@ -1920,7 +2119,8 @@
           "corps": "Bushwackers",
           "time": "9:05 PM"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-southeastern-championship",
@@ -1930,6 +2130,7 @@
       "location": "Atlanta, GA",
       "venue": "Center Parc Stadium 755 Hank Aaron Dr SE Atlanta, GA 30315",
       "dci_url": "https://www.dci.org/events/2026-dci-southeastern-championship/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Fusion Core",
@@ -2005,6 +2206,7 @@
       "location": "DeKalb, IL",
       "venue": "Huskie Stadium at Northern Illinois University 1245 Stadium Drive South DeKalb, IL 60115",
       "dci_url": "https://www.dci.org/events/2026-midwestern-championship/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Northern Lights",
@@ -2085,7 +2287,8 @@
           "corps": "Rogues Hollow Regiment",
           "time": "8:30 PM"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-nightbeat",
@@ -2095,6 +2298,7 @@
       "location": "Winston-Salem, NC",
       "venue": "Allegacy Federal Credit Union Stadium 499 Deacon Blvd Winston-Salem, NC 27105",
       "dci_url": "https://www.dci.org/events/2026-nightbeat/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Atlanta CV",
@@ -2162,6 +2366,7 @@
       "location": "Mason, OH",
       "venue": "Dwire Field 6370 South Mason Montgomery Road Mason, OH 45040",
       "dci_url": "https://www.dci.org/events/2026-summer-music-games-in-cincinnati/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Columbus Saints",
@@ -2209,6 +2414,7 @@
       "location": "Myrtle Beach, SC",
       "venue": "Doug Shaw Memorial Stadium 705 33rd Ave N Myrtle Beach, SC 29577",
       "dci_url": "https://www.dci.org/events/2026-brass-at-the-beach/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Blue Stars",
@@ -2244,6 +2450,7 @@
       "location": "Annapolis, MD",
       "venue": "Navy-Marine Corps Memorial Stadium 304 Farragut Rd Annapolis, MD 21402",
       "dci_url": "https://www.dci.org/events/2026-dci-annapolis/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Raiders",
@@ -2287,6 +2494,7 @@
       "location": "Huntington, WV",
       "venue": "Joan C. Edwards Stadium 2001 3rd Ave Huntington, WV 25703",
       "dci_url": "https://www.dci.org/events/2026-dci-huntington/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Memphis Blues",
@@ -2334,6 +2542,7 @@
       "location": "Salem, VA",
       "venue": "Salem Stadium 1008 Texas St Salem, VA 24153",
       "dci_url": "https://www.dci.org/events/2026-summer-music-games-of-southwest-virginia/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Heat Wave",
@@ -2377,6 +2586,7 @@
       "location": "Marion, OH",
       "venue": "Marion Harding Football Stadium 598 Presidential Dr Marion, OH 43302",
       "dci_url": "https://www.dci.org/events/2026-the-marion-open/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Cincinnati Tradition",
@@ -2477,7 +2687,8 @@
           "corps": "Troopers",
           "time": "TBD"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-michigan",
@@ -2528,7 +2739,8 @@
           "corps": "The Battalion",
           "time": "10:13 PM"
         }
-      ]
+      ],
+      "scored": true
     },
     {
       "slug": "2026-dci-eastern-classic",
@@ -2538,6 +2750,7 @@
       "location": "Allentown, PA",
       "venue": "J. Birney Crum Stadium 2027 Linden St Allentown, PA 18105",
       "dci_url": "https://www.dci.org/events/2026-dci-eastern-classic/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Boston Crusaders",
@@ -2593,6 +2806,7 @@
       "location": "Pittsburgh, PA",
       "venue": "Baldwin High School Stadium 4653 Clairton Blvd Pittsburgh, PA 15236",
       "dci_url": "https://www.dci.org/events/2026-dci-pittsburgh/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Columbus Saints",
@@ -2657,6 +2871,323 @@
           "corps": "Pacific Crest",
           "time": "TBD"
         }
+      ],
+      "scored": true
+    },
+    {
+      "slug": "2026-dci-kentucky",
+      "event_name": "DCI Kentucky",
+      "date": "Monday, August 3, 2026 7:30 PM",
+      "date_iso": "2026-08-03",
+      "location": "Lexington, KY",
+      "venue": "George Rogers Clark High School Stadium 620 Boone Ave Winchester, KY 40391",
+      "dci_url": "https://www.dci.org/events/2026-dci-kentucky/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "Hurricanes",
+          "time": "7:40 PM"
+        },
+        {
+          "corps": "Atlanta CV",
+          "time": "7:57 PM"
+        },
+        {
+          "corps": "Bushwackers",
+          "time": "8:14 PM"
+        },
+        {
+          "corps": "Blue Knights",
+          "time": "TBD"
+        },
+        {
+          "corps": "Blue Stars",
+          "time": "TBD"
+        },
+        {
+          "corps": "Phantom Regiment",
+          "time": "TBD"
+        },
+        {
+          "corps": "Spartans",
+          "time": "TBD"
+        },
+        {
+          "corps": "Spirit of Atlanta",
+          "time": "TBD"
+        },
+        {
+          "corps": "The Cavaliers",
+          "time": "TBD"
+        },
+        {
+          "corps": "Troopers",
+          "time": "TBD"
+        }
+      ]
+    },
+    {
+      "slug": "2026-dci-open-class-world-championship-prelims",
+      "event_name": "DCI Open Class World Championship Prelims",
+      "date": "Monday, August 3, 2026 6:00 PM",
+      "date_iso": "2026-08-03",
+      "location": "Dayton, OH",
+      "venue": "Welcome Stadium 1601 S Edwin C Moses Blvd Dayton, OH 45417",
+      "dci_url": "https://www.dci.org/events/2026-dci-open-class-world-championship-prelims/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "7th Regiment",
+          "time": "TBD"
+        },
+        {
+          "corps": "Blue Devils B",
+          "time": "TBD"
+        },
+        {
+          "corps": "Colt Cadets",
+          "time": "TBD"
+        },
+        {
+          "corps": "Columbians",
+          "time": "TBD"
+        },
+        {
+          "corps": "Eclipse",
+          "time": "TBD"
+        },
+        {
+          "corps": "Gold",
+          "time": "TBD"
+        },
+        {
+          "corps": "Heat Wave",
+          "time": "TBD"
+        },
+        {
+          "corps": "Les Stentors",
+          "time": "TBD"
+        },
+        {
+          "corps": "Memphis Blues",
+          "time": "TBD"
+        },
+        {
+          "corps": "Raiders",
+          "time": "TBD"
+        },
+        {
+          "corps": "River City Rhythm",
+          "time": "TBD"
+        },
+        {
+          "corps": "The Battalion",
+          "time": "TBD"
+        }
+      ]
+    },
+    {
+      "slug": "2026-innovations-in-brass",
+      "event_name": "Innovations In Brass",
+      "date": "Monday, August 3, 2026 6:00 PM",
+      "date_iso": "2026-08-03",
+      "location": "Akron, OH",
+      "venue": "InfoCision Stadium - Summa Field at University of Akron 375 E. Exchange Street Akron, OH 44304",
+      "dci_url": "https://www.dci.org/events/2026-innovations-in-brass/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "Bluecoats",
+          "time": "10:23 PM"
+        },
+        {
+          "corps": "Blue Devils",
+          "time": "TBD"
+        },
+        {
+          "corps": "Boston Crusaders",
+          "time": "TBD"
+        },
+        {
+          "corps": "Carolina Crown",
+          "time": "TBD"
+        },
+        {
+          "corps": "Colts",
+          "time": "TBD"
+        },
+        {
+          "corps": "Crossmen",
+          "time": "TBD"
+        },
+        {
+          "corps": "Genesis",
+          "time": "TBD"
+        },
+        {
+          "corps": "Madison Scouts",
+          "time": "TBD"
+        },
+        {
+          "corps": "Music City",
+          "time": "TBD"
+        },
+        {
+          "corps": "Pacific Crest",
+          "time": "TBD"
+        },
+        {
+          "corps": "Santa Clara Vanguard",
+          "time": "TBD"
+        },
+        {
+          "corps": "Seattle Cascades",
+          "time": "TBD"
+        },
+        {
+          "corps": "The Academy",
+          "time": "TBD"
+        }
+      ]
+    },
+    {
+      "slug": "2026-dci-world-championship-prelims",
+      "event_name": "DCI World Championship Prelims",
+      "date": "Thursday, August 6, 2026 12:00 PM",
+      "date_iso": "2026-08-06",
+      "location": "Indianapolis, IN",
+      "venue": "Lucas Oil Stadium 500 S. Capitol Avenue Indianapolis, IN 46225",
+      "dci_url": "https://www.dci.org/events/2026-dci-world-championship-prelims/",
+      "scored": true,
+      "lineup": [
+        {
+          "corps": "7th Regiment",
+          "time": ""
+        },
+        {
+          "corps": "Blue Devils",
+          "time": ""
+        },
+        {
+          "corps": "Blue Devils B",
+          "time": ""
+        },
+        {
+          "corps": "Blue Knights",
+          "time": ""
+        },
+        {
+          "corps": "Blue Stars",
+          "time": ""
+        },
+        {
+          "corps": "Bluecoats",
+          "time": ""
+        },
+        {
+          "corps": "Boston Crusaders",
+          "time": ""
+        },
+        {
+          "corps": "Carolina Crown",
+          "time": ""
+        },
+        {
+          "corps": "Colt Cadets",
+          "time": ""
+        },
+        {
+          "corps": "Colts",
+          "time": ""
+        },
+        {
+          "corps": "Columbians",
+          "time": ""
+        },
+        {
+          "corps": "Crossmen",
+          "time": ""
+        },
+        {
+          "corps": "Eclipse",
+          "time": ""
+        },
+        {
+          "corps": "Genesis",
+          "time": ""
+        },
+        {
+          "corps": "Gold",
+          "time": ""
+        },
+        {
+          "corps": "Heat Wave",
+          "time": ""
+        },
+        {
+          "corps": "Les Stentors",
+          "time": ""
+        },
+        {
+          "corps": "Madison Scouts",
+          "time": ""
+        },
+        {
+          "corps": "Memphis Blues",
+          "time": ""
+        },
+        {
+          "corps": "Music City",
+          "time": ""
+        },
+        {
+          "corps": "Pacific Crest",
+          "time": ""
+        },
+        {
+          "corps": "Phantom Regiment",
+          "time": ""
+        },
+        {
+          "corps": "Raiders",
+          "time": ""
+        },
+        {
+          "corps": "River City Rhythm",
+          "time": ""
+        },
+        {
+          "corps": "Santa Clara Vanguard",
+          "time": ""
+        },
+        {
+          "corps": "Seattle Cascades",
+          "time": ""
+        },
+        {
+          "corps": "Spartans",
+          "time": ""
+        },
+        {
+          "corps": "Spirit of Atlanta",
+          "time": ""
+        },
+        {
+          "corps": "The Academy",
+          "time": ""
+        },
+        {
+          "corps": "The Battalion",
+          "time": ""
+        },
+        {
+          "corps": "The Cavaliers",
+          "time": ""
+        },
+        {
+          "corps": "Troopers",
+          "time": ""
+        }
       ]
     },
     {
@@ -2667,6 +3198,7 @@
       "location": "Indianapolis, IN",
       "venue": "Lucas Oil Stadium 500 S. Capitol Avenue Indianapolis, IN 46225",
       "dci_url": "https://www.dci.org/events/2026-dci-all-age-world-championship-prelims/",
+      "scored": true,
       "lineup": [
         {
           "corps": "Atlanta CV",
