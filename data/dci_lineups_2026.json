@@ -1996,7 +1996,7 @@
       "location": "Mesa, AZ",
       "venue": "John D. Riggs Stadium at Mesa Community College 1833 West Southern Ave. Mesa, AZ 85202",
       "dci_url": "https://www.dci.org/events/2026-drums-across-the-desert/",
-      "scored": true,
+      "scored": false,
       "lineup": [
         {
           "corps": "Seattle Cascades",
@@ -2410,7 +2410,7 @@
       "location": "New London, CT",
       "venue": "New London High School 20 Chester St. New London, CT 06320",
       "dci_url": "https://www.dci.org/events/2026-sounds-by-the-seaport/",
-      "scored": true,
+      "scored": false,
       "lineup": [
         {
           "corps": "Eastern Connecticut Symphony Orchestra",
