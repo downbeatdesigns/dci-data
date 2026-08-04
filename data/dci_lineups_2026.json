@@ -1,5 +1,5 @@
 {
-  "scraped_date": "2026-08-02",
+  "scraped_date": "2026-08-04",
   "season": 2026,
   "events": [
     {
@@ -3361,20 +3361,14 @@
           "class": null
         },
         {
-          "corps": "Legacy Drum & Bugle Corps",
-          "time": "7:20 PM",
-          "competitive": false,
-          "class": null
-        },
-        {
           "corps": "Sunrisers",
-          "time": "7:32 PM",
+          "time": "7:22 PM",
           "competitive": true,
           "class": "All-Age"
         },
         {
           "corps": "Hurricanes",
-          "time": "7:49 PM",
+          "time": "7:39 PM",
           "competitive": true,
           "class": "All-Age"
         },
@@ -4969,16 +4963,130 @@
       "scored": true,
       "lineup": [
         {
+          "corps": "Genesis",
+          "time": "4:13 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Seattle Cascades",
+          "time": "4:30 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Spartans",
+          "time": "4:47 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "The Academy",
+          "time": "5:04 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Music City",
+          "time": "5:21 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Crossmen",
+          "time": "6:37 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Madison Scouts",
+          "time": "6:54 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Pacific Crest",
+          "time": "7:11 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Spirit of Atlanta",
+          "time": "7:28 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Knights",
+          "time": "7:45 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Troopers",
+          "time": "8:02 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Colts",
+          "time": "8:41 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "The Cavaliers",
+          "time": "8:58 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Stars",
+          "time": "9:15 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Phantom Regiment",
+          "time": "9:32 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Santa Clara Vanguard",
+          "time": "9:49 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Boston Crusaders",
+          "time": "10:06 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Carolina Crown",
+          "time": "10:23 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Devils",
+          "time": "10:40 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Bluecoats",
+          "time": "10:57 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
           "corps": "7th Regiment",
           "time": "",
           "competitive": true,
           "class": "Open Class"
-        },
-        {
-          "corps": "Blue Devils",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
         },
         {
           "corps": "Blue Devils B",
@@ -4987,46 +5095,10 @@
           "class": "Open Class"
         },
         {
-          "corps": "Blue Knights",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Blue Stars",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Bluecoats",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Boston Crusaders",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Carolina Crown",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
           "corps": "Colt Cadets",
           "time": "",
           "competitive": true,
           "class": "Open Class"
-        },
-        {
-          "corps": "Colts",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
         },
         {
           "corps": "Columbians",
@@ -5035,22 +5107,10 @@
           "class": "Open Class"
         },
         {
-          "corps": "Crossmen",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
           "corps": "Eclipse",
           "time": "",
           "competitive": true,
           "class": "Open Class"
-        },
-        {
-          "corps": "Genesis",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
         },
         {
           "corps": "Gold",
@@ -5071,12 +5131,6 @@
           "class": "Open Class"
         },
         {
-          "corps": "Madison Scouts",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
           "corps": "Memphis Blues",
           "time": "",
           "competitive": true,
@@ -5087,24 +5141,6 @@
           "time": "",
           "competitive": false,
           "class": null
-        },
-        {
-          "corps": "Music City",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Pacific Crest",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Phantom Regiment",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
         },
         {
           "corps": "Raiders",
@@ -5119,52 +5155,10 @@
           "class": "Open Class"
         },
         {
-          "corps": "Santa Clara Vanguard",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Seattle Cascades",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Spartans",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Spirit of Atlanta",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "The Academy",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
           "corps": "The Battalion",
           "time": "",
           "competitive": true,
           "class": "Open Class"
-        },
-        {
-          "corps": "The Cavaliers",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Troopers",
-          "time": "",
-          "competitive": true,
-          "class": "World Class"
         }
       ]
     },
