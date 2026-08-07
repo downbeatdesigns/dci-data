@@ -1,5 +1,5 @@
 {
-  "scraped_date": "2026-08-06",
+  "scraped_date": "2026-08-07",
   "season": 2026,
   "events": [
     {
@@ -3712,7 +3712,7 @@
     },
     {
       "slug": "2026-nightbeat",
-      "event_name": "Nightbeat",
+      "event_name": "NightBEAT",
       "date": "Sunday, July 26, 2026 5:00 PM",
       "date_iso": "2026-07-26",
       "location": "Winston-Salem, NC",
@@ -3722,7 +3722,7 @@
       "lineup": [
         {
           "corps": "North Carolina A&T Cold Steel Drumline",
-          "time": "5:05 PM",
+          "time": "5:15 PM",
           "competitive": false,
           "class": null
         },
@@ -3739,82 +3739,76 @@
           "class": "Open Class"
         },
         {
-          "corps": "Encore - TBD",
-          "time": "10:21 PM",
-          "competitive": false,
-          "class": null
-        },
-        {
-          "corps": "Blue Devils",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Blue Knights",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Blue Stars",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Bluecoats",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Carolina Crown",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Colts",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Crossmen",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
           "corps": "Music City",
-          "time": "TBD",
+          "time": "6:11 PM",
           "competitive": true,
           "class": "World Class"
         },
         {
           "corps": "Spartans",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Spirit of Atlanta",
-          "time": "TBD",
+          "time": "6:29 PM",
           "competitive": true,
           "class": "World Class"
         },
         {
           "corps": "The Academy",
-          "time": "TBD",
+          "time": "6:47 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Spirit of Atlanta",
+          "time": "7:05 PM",
           "competitive": true,
           "class": "World Class"
         },
         {
           "corps": "Troopers",
-          "time": "TBD",
+          "time": "8:15 PM",
           "competitive": true,
           "class": "World Class"
+        },
+        {
+          "corps": "Blue Knights",
+          "time": "8:33 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Colts",
+          "time": "8:51 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Stars",
+          "time": "9:09 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Bluecoats",
+          "time": "9:27 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Devils",
+          "time": "9:45 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Carolina Crown",
+          "time": "10:03 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Encore - Carolina Crown",
+          "time": "10:21 PM",
+          "competitive": false,
+          "class": null
         }
       ]
     },
@@ -5347,13 +5341,157 @@
           "class": null
         },
         {
-          "corps": "DCI World Championships Semifinals Begins",
+          "corps": "River City Rhythm",
           "time": "1:30 PM",
-          "competitive": false,
-          "class": null
+          "competitive": true,
+          "class": "Open Class"
         },
         {
-          "corps": "Encore - Open Class World Champion",
+          "corps": "Memphis Blues",
+          "time": "1:47 PM",
+          "competitive": true,
+          "class": "Open Class"
+        },
+        {
+          "corps": "Genesis",
+          "time": "2:04 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Gold",
+          "time": "2:21 PM",
+          "competitive": true,
+          "class": "Open Class"
+        },
+        {
+          "corps": "Seattle Cascades",
+          "time": "2:38 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "The Battalion",
+          "time": "2:55 PM",
+          "competitive": true,
+          "class": "Open Class"
+        },
+        {
+          "corps": "Spartans",
+          "time": "3:12 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Devils B",
+          "time": "3:46 PM",
+          "competitive": true,
+          "class": "Open Class"
+        },
+        {
+          "corps": "The Academy",
+          "time": "4:03 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Music City",
+          "time": "4:20 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Crossmen",
+          "time": "4:37 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Madison Scouts",
+          "time": "4:54 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Knights",
+          "time": "5:11 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Pacific Crest",
+          "time": "5:28 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Troopers",
+          "time": "5:45 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Spirit of Atlanta",
+          "time": "6:02 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Colts",
+          "time": "6:49 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "The Cavaliers",
+          "time": "7:06 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Phantom Regiment",
+          "time": "7:23 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Stars",
+          "time": "7:40 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Santa Clara Vanguard",
+          "time": "7:57 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Boston Crusaders",
+          "time": "8:14 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Carolina Crown",
+          "time": "8:31 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Devils",
+          "time": "8:48 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Bluecoats",
+          "time": "9:05 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Open Class Encore Champion Encore Blue Devils \"B\"",
           "time": "9:22 PM",
           "competitive": false,
           "class": null
