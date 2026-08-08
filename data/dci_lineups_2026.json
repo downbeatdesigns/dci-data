@@ -1,5 +1,5 @@
 {
-  "scraped_date": "2026-08-07",
+  "scraped_date": "2026-08-08",
   "season": 2026,
   "events": [
     {
@@ -431,7 +431,7 @@
     {
       "slug": "2026-drums-across-nebraska",
       "event_name": "Drums Across Nebraska",
-      "date": "Wednesday, July 1, 2026 7:00 PM",
+      "date": "Wednesday, July 1, 2026 8:00 PM",
       "date_iso": "2026-07-01",
       "location": "Omaha, NE",
       "venue": "Burke Stadium 12200 Burke St Omaha, NE 68154",
@@ -440,43 +440,43 @@
       "lineup": [
         {
           "corps": "Colt Cadets",
-          "time": "7:10 PM",
+          "time": "8:10 PM",
           "competitive": true,
           "class": "Open Class"
         },
         {
           "corps": "Genesis",
-          "time": "7:28 PM",
+          "time": "8:28 PM",
           "competitive": true,
           "class": "World Class"
         },
         {
           "corps": "Blue Knights",
-          "time": "7:46 PM",
+          "time": "8:46 PM",
           "competitive": true,
           "class": "World Class"
         },
         {
           "corps": "Troopers",
-          "time": "8:24 PM",
+          "time": "9:24 PM",
           "competitive": true,
           "class": "World Class"
         },
         {
           "corps": "Phantom Regiment",
-          "time": "8:42 PM",
+          "time": "9:42 PM",
           "competitive": true,
           "class": "World Class"
         },
         {
           "corps": "Colts",
-          "time": "9:00 PM",
+          "time": "10:00 PM",
           "competitive": true,
           "class": "World Class"
         },
         {
           "corps": "Encore - Colts",
-          "time": "9:18 PM",
+          "time": "10:18 PM",
           "competitive": false,
           "class": null
         }
@@ -1864,7 +1864,7 @@
     },
     {
       "slug": "2026-so-cal-classic-open-class-pacific-championship-finals",
-      "event_name": "So Cal Classic Open Class Pacific Championship Finals",
+      "event_name": "So Cal Classic: Open Class Pacific Championship Finals",
       "date": "Sunday, July 12, 2026 7:00 PM",
       "date_iso": "2026-07-12",
       "location": "Buena Park, CA",
@@ -1879,32 +1879,32 @@
           "class": null
         },
         {
-          "corps": "Blue Devils B",
-          "time": "TBD",
-          "competitive": true,
-          "class": "Open Class"
-        },
-        {
           "corps": "Blue Devils C",
-          "time": "TBD",
-          "competitive": true,
-          "class": "Open Class"
-        },
-        {
-          "corps": "Gold",
-          "time": "TBD",
+          "time": "7:27 PM",
           "competitive": true,
           "class": "Open Class"
         },
         {
           "corps": "Golden Empire",
-          "time": "TBD",
+          "time": "7:44 PM",
           "competitive": true,
           "class": "Open Class"
         },
         {
           "corps": "Impulse",
-          "time": "TBD",
+          "time": "8:18 PM",
+          "competitive": true,
+          "class": "Open Class"
+        },
+        {
+          "corps": "Gold",
+          "time": "8:35 PM",
+          "competitive": true,
+          "class": "Open Class"
+        },
+        {
+          "corps": "Blue Devils B",
+          "time": "8:52 PM",
           "competitive": true,
           "class": "Open Class"
         }
@@ -3283,52 +3283,52 @@
           "class": "Open Class"
         },
         {
-          "corps": "Encore - Madison Scouts",
-          "time": "10:12 PM",
-          "competitive": false,
-          "class": null
-        },
-        {
           "corps": "Genesis",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Madison Scouts",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Pacific Crest",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Phantom Regiment",
-          "time": "TBD",
-          "competitive": true,
-          "class": "World Class"
-        },
-        {
-          "corps": "Santa Clara Vanguard",
-          "time": "TBD",
+          "time": "7:56 PM",
           "competitive": true,
           "class": "World Class"
         },
         {
           "corps": "Seattle Cascades",
-          "time": "TBD",
+          "time": "8:13 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Pacific Crest",
+          "time": "8:47 PM",
           "competitive": true,
           "class": "World Class"
         },
         {
           "corps": "The Cavaliers",
-          "time": "TBD",
+          "time": "9:04 PM",
           "competitive": true,
           "class": "World Class"
+        },
+        {
+          "corps": "Phantom Regiment",
+          "time": "9:21 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Santa Clara Vanguard",
+          "time": "9:38 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Madison Scouts",
+          "time": "9:55 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Encore - Madison Scouts",
+          "time": "10:12 PM",
+          "competitive": false,
+          "class": null
         }
       ]
     },
@@ -5515,10 +5515,76 @@
       "scored": true,
       "lineup": [
         {
-          "corps": "All-Age Class Finals Begins",
+          "corps": "MBI",
           "time": "10:00 AM",
-          "competitive": false,
-          "class": null
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "Northern Lights",
+          "time": "10:17 AM",
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "Govenaires",
+          "time": "10:34 AM",
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "Rogues Hollow Regiment",
+          "time": "10:51 AM",
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "Fusion Core",
+          "time": "11:08 AM",
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "White Sabers",
+          "time": "11:25 AM",
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "Hurricanes",
+          "time": "11:57 AM",
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "Cincinnati Tradition",
+          "time": "12:14 PM",
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "Bushwackers",
+          "time": "12:31 PM",
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "Atlanta CV",
+          "time": "12:48 PM",
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "Hawthorne Caballeros",
+          "time": "1:05 PM",
+          "competitive": true,
+          "class": "All-Age"
+        },
+        {
+          "corps": "Reading Buccaneers",
+          "time": "1:22 PM",
+          "competitive": true,
+          "class": "All-Age"
         }
       ]
     },
@@ -5545,10 +5611,76 @@
           "class": null
         },
         {
-          "corps": "World Championship Finals Begins",
+          "corps": "Blue Knights",
           "time": "6:30 PM",
-          "competitive": false,
-          "class": null
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Troopers",
+          "time": "6:47 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Spirit of Atlanta",
+          "time": "7:04 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Colts",
+          "time": "7:21 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "The Cavaliers",
+          "time": "7:38 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Phantom Regiment",
+          "time": "7:55 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Stars",
+          "time": "8:32 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Santa Clara Vanguard",
+          "time": "8:49 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Boston Crusaders",
+          "time": "9:06 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Carolina Crown",
+          "time": "9:23 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Blue Devils",
+          "time": "9:40 PM",
+          "competitive": true,
+          "class": "World Class"
+        },
+        {
+          "corps": "Bluecoats",
+          "time": "9:57 PM",
+          "competitive": true,
+          "class": "World Class"
         }
       ]
     }
